@@ -1,0 +1,1275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"avail",
+				"availIdeals"
+			],
+			[
+				"skill",
+				"skillProfs"
+			],
+			[
+				"lvl",
+				"lvlUpHitDice"
+			],
+			[
+				"Abs",
+				"AbScoreVals"
+			],
+			[
+				"Cl",
+				"ClassLevels〔variable〕"
+			],
+			[
+				"Class",
+				"ClassLevel"
+			],
+			[
+				"line",
+				"lineToWrite〔variable〕"
+			],
+			[
+				"Grou",
+				"GroupLen〔variable〕"
+			],
+			[
+				"Tot",
+				"TotNgroups〔variable〕"
+			],
+			[
+				"fof_",
+				"fof_tab_sifter"
+			],
+			[
+				"Group",
+				"GroupLen"
+			],
+			[
+				"max",
+				"maxfileCount〔variable〕"
+			],
+			[
+				"missin",
+				"missingkeys"
+			],
+			[
+				"miss",
+				"missingkeys"
+			],
+			[
+				"keys",
+				"keys_read"
+			],
+			[
+				"task",
+				"taskNameAppender"
+			],
+			[
+				"string",
+				"stringOfTasks"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"mu",
+				"multi_param_actions〔function〕"
+			],
+			[
+				"user",
+				"userRanges"
+			],
+			[
+				"fftfile_",
+				"fftfile_low"
+			],
+			[
+				"mess",
+				"messToScreen"
+			],
+			[
+				"nex",
+				"nextLineIndent"
+			],
+			[
+				"mees",
+				"messToScreen"
+			],
+			[
+				"error",
+				"errorType"
+			],
+			[
+				"messa",
+				"messageToScreen〔variable〕"
+			],
+			[
+				"next",
+				"nextLineIndent〔variable〕"
+			],
+			[
+				"tex",
+				"textBaseIndent〔variable〕"
+			],
+			[
+				"funcName",
+				"funcNameOver"
+			],
+			[
+				"exc_",
+				"exc_info〔function〕"
+			],
+			[
+				"run",
+				"runningLocallyMessage〔variable〕"
+			],
+			[
+				"my",
+				"myLaptopName"
+			],
+			[
+				"exc",
+				"exc_info"
+			],
+			[
+				"tas",
+				"taks"
+			],
+			[
+				"bound",
+				"boundCheckNValues"
+			],
+			[
+				"border",
+				"borderControl"
+			],
+			[
+				"low",
+				"lowLim"
+			],
+			[
+				"set",
+				"setattr"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"wrong",
+				"wrongBounds"
+			],
+			[
+				"wr",
+				"wrongBounds"
+			],
+			[
+				"action",
+				"actionkeys"
+			],
+			[
+				"what",
+				"what_set"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"tupl",
+				"tuple"
+			],
+			[
+				"read",
+				"read_params"
+			],
+			[
+				"missing",
+				"missingkeys"
+			],
+			[
+				"sub",
+				"subfolder"
+			],
+			[
+				"sbf",
+				"subfolders"
+			],
+			[
+				"wha",
+				"what_set"
+			],
+			[
+				"indra",
+				"indraN_set"
+			],
+			[
+				"iB_",
+				"iB_high"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"tuple",
+				"tuple_parameters"
+			],
+			[
+				"key",
+				"key"
+			],
+			[
+				"defa",
+				"default_vals"
+			],
+			[
+				"keys_",
+				"keys_not_read"
+			],
+			[
+				"opt",
+				"optcount"
+			],
+			[
+				"open",
+				"open_cfgfile"
+			],
+			[
+				"cfg",
+				"cfgpath"
+			],
+			[
+				"ini",
+				"cfg_init_str"
+			],
+			[
+				"Ldt",
+				"LDT_length"
+			],
+			[
+				"load",
+				"loadIDs"
+			],
+			[
+				"Ngr",
+				"Ngroups"
+			],
+			[
+				"float",
+				"float64"
+			],
+			[
+				"Ids",
+				"IDs"
+			],
+			[
+				"gt",
+				"gtb_output"
+			],
+			[
+				"gro",
+				"grouplen"
+			],
+			[
+				"fin",
+				"findCount"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"L",
+				"LONGID"
+			],
+			[
+				"skip",
+				"skipfile_i"
+			],
+			[
+				"err",
+				"error_w_user_input"
+			],
+			[
+				"path",
+				"pathstrlen"
+			],
+			[
+				"grou",
+				"groupoffset"
+			],
+			[
+				"group",
+				"groupoffset"
+			],
+			[
+				"tot",
+				"TotNids"
+			],
+			[
+				"totN",
+				"TotNgroups"
+			],
+			[
+				"num_chos",
+				"num_chos-N"
+			],
+			[
+				"mass",
+				"mass_sub"
+			],
+			[
+				"SubV",
+				"SubVmax"
+			],
+			[
+				"SubVel",
+				"SubVelDisp"
+			],
+			[
+				"floa",
+				"float64"
+			],
+			[
+				"Nsub",
+				"NsubPerHalo"
+			],
+			[
+				"loc",
+				"locIDs"
+			],
+			[
+				"long",
+				"LONGID"
+			],
+			[
+				"totnid",
+				"totnids"
+			],
+			[
+				"grouplen",
+				"grouplen"
+			],
+			[
+				"Gro",
+				"GroupLen"
+			],
+			[
+				"GroupOf",
+				"GroupOffset"
+			],
+			[
+				"from",
+				"fromfile"
+			],
+			[
+				"pla",
+				"planck_Cl"
+			],
+			[
+				"plan",
+				"planck_err"
+			],
+			[
+				"pl",
+				"planck_Cl"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"cl",
+				"Cls_hires"
+			],
+			[
+				"Cls",
+				"Cls_hires"
+			],
+			[
+				"xl",
+				"xlim"
+			],
+			[
+				"r",
+				"r_earth"
+			],
+			[
+				"r_",
+				"r_earth"
+			],
+			[
+				"alpha",
+				"alphaupper"
+			],
+			[
+				"alp",
+				"alphalower"
+			],
+			[
+				"len",
+				"lengthnumber"
+			],
+			[
+				"eq_",
+				"eq_arg"
+			],
+			[
+				"ejecta",
+				"ejecta_time_array"
+			],
+			[
+				"eq",
+				"eq_time"
+			],
+			[
+				"pos",
+				"pos_timelen"
+			],
+			[
+				"pot_",
+				"pot_en_sum"
+			],
+			[
+				"consv",
+				"consv_bound_ejec_sum"
+			],
+			[
+				"pot",
+				"pot_en_ejec_sum"
+			],
+			[
+				"kin_en",
+				"kin_en_ejec_sum"
+			],
+			[
+				"pot_en",
+				"pot_en_ejec_sum"
+			],
+			[
+				"kin_en_",
+				"kin_en_ejec_comp"
+			],
+			[
+				"ejec",
+				"ejecta_body_array"
+			],
+			[
+				"eje",
+				"ejecta_array"
+			],
+			[
+				"kin",
+				"kin_en_comp"
+			],
+			[
+				"post",
+				"posdat"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"time",
+				"timestep"
+			],
+			[
+				"tie",
+				"timestep"
+			],
+			[
+				"plot",
+				"plotVirial"
+			],
+			[
+				"body",
+				"bodycount"
+			],
+			[
+				"E",
+				"Esqu"
+			],
+			[
+				"Ener",
+				"Enername"
+			],
+			[
+				"spin",
+				"spinconfigs"
+			],
+			[
+				"accept",
+				"acceptlist"
+			],
+			[
+				"acc",
+				"acceptlist"
+			],
+			[
+				"Mag",
+				"Mag_expPow2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "backgroundChoices.py",
+			"settings":
+			{
+				"buffer_size": 36800,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game.py",
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 156.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packare",
+				"Package Control: Remove Package"
+			],
+			[
+				"select",
+				"Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"selec",
+				"Select Theme"
+			],
+			[
+				"sele",
+				"Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 154.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Boffen/Dropbox/DnD/DnD_py",
+		"/C/Users/Boffen/Dropbox/DnD/DnD_py/detail"
+	],
+	"file_history":
+	[
+		"/C/Users/Boffen/Dropbox/uni/master/indraRead/FirstFeedback.hs",
+		"/C/Users/Boffen/Dropbox/DnD/DnD_py/backgroundChoices.py",
+		"/C/Users/Boffen/Dropbox/DnD/DnD_py/game.py",
+		"/C/Users/Boffen/Dropbox/DnD/DnD_py/charsheet.py",
+		"/C/Users/Boffen/Dropbox/DnD/DnD_py/classOverview.py",
+		"/C/Users/Boffen/Dropbox/DnD/DnD_py/mech.py",
+		"/C/Users/Boffen/Dropbox/stuff/ambassade_init.txt",
+		"/C/Users/Boffen/Dropbox/uni/summer17/src_files/read_indra_snap.pro",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_project/read_args.py",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - Cobalt2/Cobalt2.sublime-theme",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - Cobalt2/cobalt2.tmTheme",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - Fox/Fox.sublime-theme",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_project/README.txt",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_project/restore_default_cfg.py",
+		"/C/Users/Boffen/Dropbox/sublimeusersettings.sublime-settings",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - Fox/Fox Light.sublime-theme",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Widget.sublime-settings",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - TwoDark/TwoDark.tmTheme",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - TwoDark/TwoDark.sublime-theme",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - Fox/fox.dark.tmTheme",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - Fox/fox.light.tmTheme",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - DefaultPlus/DefaultPlus Monokai.sublime-theme",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Default.sublime-theme",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Boffen/Dropbox/uni/summer17/indraRead.sublime-project",
+		"/C/Users/Boffen/Dropbox/uni/summer17/indraRead.sublime-workspace",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_project/read_tools.py",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_project/read_sifters.py",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_project/read.py",
+		"/C/Users/Boffen/Dropbox/uni/summer17/project_descr.txt",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - TwoDark.sublime-package",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - TwoDark/TwoDark/Widget - TwoDark.sublime-settings",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Theme - TwoDark/TwoDark/Widget - TwoDark.stTheme",
+		"/C/Users/Boffen/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/C/Users/Boffen/Dropbox/uni/summer17/src_files/indra_corrfunc.py",
+		"/C/Users/Boffen/Dropbox/suddenly_internet.txt",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_project/restore_def_cfg.py",
+		"/C/Users/Boffen/AFUdrive/Valgallmøte_H17/vervliste.tex",
+		"/C/Users/Boffen/AFUdrive/Valgallmøte_H17/positions.tex",
+		"/C/Users/Boffen/AFUdrive/Valgallmøte_H17/innkalling.tex",
+		"/C/Users/Boffen/AFUdrive/Valgallmøte_H17/order.tex",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_project/read_sifters_before.py",
+		"/C/Users/Boffen/Dropbox/uni/summer17/indra_corrfunc.py",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_tools.py",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_sifters.py",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_args.py",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_fft.pro",
+		"/C/Users/Boffen/Dropbox/det_snødde_i_dag.txt",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_indra_snap.pro",
+		"/C/Users/Boffen/Dropbox/uni/ast3310/projectE/coremodel.py",
+		"/C/Users/Boffen/Dropbox/billeboogie.txt",
+		"/C/Users/Boffen/AppData/Local/Temp/Rar$DIa0.294/readfiles.c",
+		"/C/Users/Boffen/Dropbox/uni/summer17/read_sub.pro",
+		"/C/Users/Boffen/Dropbox/uni/summer17/snapinfo.txt",
+		"/C/Users/Boffen/Desktop/ast3220_eval_final.txt",
+		"/C/Users/Boffen/Desktop/ast3220_eval_mid.txt",
+		"/C/Users/Boffen/Dropbox/uni/ast5220/ms4/COM_PowerSpect_CMB-TT-loL-full_R2.02.txt",
+		"/C/Users/Boffen/Dropbox/uni/ast5220/ms4/COM_PowerSpect_CMB-TT-hiL-full_R2.02.txt",
+		"/C/Users/Boffen/Dropbox/uni/ast5220/ms4/py/plots4.py",
+		"/C/Users/Boffen/Dropbox/uni/ast5220/ms4/src/cl_mod.f90",
+		"/C/Users/Boffen/Dropbox/uni/ast5220/ms4/planck.dat",
+		"/C/Users/Boffen/Dropbox/uni/ast5220/ms3/src/evolution_mod.f90",
+		"/C/Users/Boffen/Dropbox/uni/INF1100/density_improved.py",
+		"/C/Users/Boffen/Dropbox/uni/INF1100/read_error.py",
+		"/C/Users/Boffen/Dropbox/uni/ast5220/ms2/src/rec_mod.f90",
+		"/C/Users/Boffen/Dropbox/uni/stk4900/sara/oblig2_1.R",
+		"/C/Users/Boffen/Dropbox/uni/INF1100/xkcd.py",
+		"/C/Users/Boffen/Dropbox/uni/fys3150/p5/python/colplot.py",
+		"/C/Users/Boffen/Desktop/ast3220.txt",
+		"/C/Users/Boffen/Dropbox/uni/ast5220/ms1/tex/ms1_magnucb.pdf",
+		"/C/Users/Boffen/Desktop/AST4310_final.txt",
+		"/C/Users/Boffen/Dropbox/uni/fys4160/ark.py",
+		"/C/Users/Boffen/Dropbox/uni/master/time_mod.txt",
+		"/D/SteamLibrary/steamapps/common/Dark Souls Prepare to Die Edition/DATA/DSfix.ini",
+		"/C/Users/Boffen/Dropbox/uni/stk4900/andri11.R",
+		"/C/Users/Boffen/Dropbox/uni/stk4900/andri12.R",
+		"/C/Users/Boffen/Dropbox/uni/master/Cosmic Web Masters.docx",
+		"/C/Users/Boffen/Dropbox/uni/ast5220/ark.py",
+		"/C/Users/Boffen/Dropbox/tilPetra3.txt",
+		"/C/Users/Boffen/Dropbox/tilPetra2.txt",
+		"/C/Program Files (x86)/OpenSSH/etc/passwd",
+		"/C/Program Files (x86)/OpenSSH/docs/quickstart.txt",
+		"/C/Users/Boffen/.bashrc",
+		"/C/Users/Boffen/Google Drive/GitHub/fys3150/p5/python/colplot.py",
+		"/C/Users/Boffen/Desktop/genforsAFU.txt",
+		"/C/Users/Boffen/Google Drive/GitHub/fys3150/p5/data/ClusterPos_100body_dt1_eps1_dur16.dat",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4320/ass2/program.py",
+		"/C/Users/Boffen/Google Drive/GitHub/fys3150/FYS4150_Project2/noninteracting.py",
+		"/C/Users/Boffen/Google Drive/GitHub/fys3150/FYS4150_Project2/interacting.py",
+		"/C/Users/Boffen/Google Drive/GitHub/fys3150/p4/python/phase.py",
+		"/C/Users/Boffen/Google Drive/GitHub/fys3150/p4/python/ising_model.py",
+		"/C/Users/Boffen/Google Drive/GitHub/fys3150/p4/python/collectnplot.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/3vacuum_wvl_min.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/3NaD_ext.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/2opt_depth.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/2obs_Tb.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/2obs_solar_cont.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/2obs_planck_func.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/2limb_dark.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/2flux_int.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/2disk_center_intensity.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/2cont_ext_over_h.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/2cont_ext.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1totpress_vs_m.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1photpartdens.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1ion_frac.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1gasP_vs_h.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1gasdens_vs_h.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1falc_temp_strat.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1earthsuncomp.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1earth_strata.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1earth_pres_dens_vs_h.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1earth_mean_mol.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1earth_enflux.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1earth_densityscales.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1dens_comp.py",
+		"/C/Users/Boffen/Google Drive/GitHub/ast4310/SSB/1compl_mix.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"character",
+			"locIDs",
+			"locOffset",
+			"locOffsset",
+			"locLen",
+			"GroupLen",
+			"grouplen",
+			"IDs",
+			"self.length",
+			"IDs",
+			"GroupOffset",
+			".\n",
+			"GroupOffset",
+			"GroupLen",
+			"grouplen",
+			"GroupLen",
+			"grouplen",
+			"GroupLen",
+			"GroupOffset",
+			"GroupLen",
+			"locOffset",
+			"locLen",
+			"loclen",
+			"locLen",
+			"continuing",
+			"print",
+			"redshift",
+			"rs",
+			"path",
+			"startswith",
+			"read.py",
+			"try",
+			"range",
+			"continue",
+			"keys_read",
+			"tasklist",
+			"tasknamesetter",
+			"here",
+			"missingkeys_no",
+			"proper",
+			"borders",
+			"print",
+			"initialized",
+			"keys_read",
+			"print",
+			"tasknamesetter",
+			"line's t",
+			"errorstring",
+			"tasknamesetter",
+			"keys_read",
+			"subfolder",
+			"miss",
+			"sys.exc",
+			"missingkeys_no",
+			"None",
+			"keys_read",
+			"missingkeys",
+			"keys_read",
+			"missingkeys",
+			".exc",
+			"python",
+			"sys.",
+			"indraN",
+			".exc",
+			"broke",
+			"group",
+			"read_params",
+			"exec",
+			"argslist",
+			"arglist",
+			".exc",
+			"exc",
+			"passfailed",
+			"self.wrongBounds",
+			"ctrl+shift+r",
+			"type",
+			"file_type",
+			"python",
+			"icon",
+			"highlight",
+			"mini",
+			"minimap",
+			"drop",
+			"shadow",
+			"missingkeys",
+			"_set",
+			"set",
+			"os.",
+			"glob",
+			"minimap",
+			"draw_minimap_border",
+			"bold_folder_labels",
+			"hightlight_modified_tabs",
+			"attributes",
+			"font.bold",
+			"font.italic",
+			"transient",
+			"minimap",
+			"active",
+			"italic",
+			"tab label",
+			"italic",
+			"tab",
+			"    \"caret_extra_width\": 1",
+			"highlight_modified_tabs",
+			"    \"highlight_modified_tabs\": true,\n",
+			"\"draw_shadows\": false,",
+			"\"color_scheme\": \"Packages/Theme - TwoDark/TwoDark.tmTheme\",",
+			"\"theme\": \"TwoDark.sublime-theme\",",
+			"theme",
+			"wrongBounds",
+			"wrongbounds",
+			"None",
+			"theme",
+			"\t\"",
+			"Default",
+			",",
+			"tab",
+			"reset_font",
+			"caret",
+			"reset_font_size",
+			"caret",
+			"face",
+			"None",
+			"syntax",
+			"any",
+			"all",
+			"total"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self.missingkeys_no",
+			"self.keys_read",
+			"self.missingkeys",
+			"self.arglist",
+			"success",
+			"self.borders",
+			"self.wrongBounds",
+			"self.toggles",
+			"self.actionkeys",
+			"self.read_params",
+			"arglist",
+			"self.subfolder",
+			"self.read_these",
+			"Stand-in deputy",
+			"errhand_userinput",
+			"self.missingfiles",
+			"FirstSubOfHalo",
+			"SubOffset",
+			"TotNgroups",
+			"TotNids",
+			"TotNgroups",
+			"locOffset",
+			"GroupOffset",
+			"GroupLen",
+			"Ngroups",
+			"NTask",
+			"Nids",
+			"TotNgroups",
+			"locLen",
+			"TotNgroups",
+			"len",
+			"LONGID",
+			"nel",
+			"pl.\npl.",
+			"max_j",
+			"max_i",
+			"pl.amax",
+			"np.argmax",
+			"np.max",
+			"dpi=300",
+			".png', dpi=500",
+			"ddeltda[i]",
+			"",
+			"Press enter to continue\\n",
+			"enter",
+			"herg",
+			"    \n    ",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "backgroundChoices.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12409,
+								12409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4064.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "game.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								225,
+								8,
+								29,
+								11,
+								50,
+								21,
+								6,
+								223,
+								132,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "backgroundChoices.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36622,
+								36622
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								225,
+								8,
+								29,
+								13,
+								58,
+								11,
+								1,
+								5,
+								44,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 310.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "charscreen.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
