@@ -1161,17 +1161,6 @@ NAMES AND ETHNICITIES
 
 Having so much more variely than olher cullures,
 humans as a whole have no typical names. Some human
-
-PART
-
-3°
-
-t
-
-I
-
-RACES
-
 parents give their children names from olher languages,
 such as Dwarvish or Elvish (pronounced more or less
 correctly), bul mosl parenls give names that are Iinked
@@ -1193,26 +1182,25 @@ are widely recognized, lhough over a dozen olhers are
 found in more localized areas of Faerun. These groups,
 and lhe lypical names of lheir members, can be used as
 inspiralion no matter which world your human is in.
-CALISHITE
 
-Shorler and slighler in build than mos I olher humans,
+CALISHITE
+Shorter and slighter in build than most other humans,
 Calishites have dusky brown skin, hair, and eyes.
-They're found primarily in soulhwest Faerun.
+They're found primarily in southwest Faerun.
 Calishite Names: (Male) Aseir, Bardeid, Haseid.
 Khemed. Mehmen. Sudeiman, Zasheir; (female)
 Alala, Ceidil. Hama, Jasmal, Meilil, Seipora, Yasheira,
 Zasheida; (surnames) Basha, Dumein,Jassan, Khalid.
 Moslana. Pashar, Rein
-CHONDATHAN
 
+CHONDATHAN
 Chondalhans are slender, lawny-skinned folk wilh
 brown hair that ranges from almosl blond lo almost
 black. Most are tall and have green or brown eyes,
 but lhese trails are hardly universal. Humans of
 Chondalhan descenl dominale the centrallands of
 Faerun, around the Inner Sea.
-
-Chondathan Names: (Male) Darvin, Dorn, Evendur,
+Chondathan Names: (Male) Darvin, Dorn, Evendur,
 Gorstag, Grim, Helm, Malark, Morn, Randal,
 Stedd; (female) Arveene, Esvele, jhessail, Kerri,
 Lureene, Miri, Rowan, Shandri, Tessele; (surnames)
@@ -1225,15 +1213,13 @@ groJ in Kara-Tur, far to the east of Faerún. They are
 yellowish-bronze in hue, with black hair and dark
 eyes. Shou surnames are usually presented before
 the given name.
-
-DAMARAN
-
 Shou Names: (Male) An, Chen, Chi, Fai, jiang, Jun,
 Lian, Long, Meng, On, Shan, Shui, Wen; (female)
 Bai, Chao,jia, Lei, Mei, Qiao, Shui, Tai; (surnames)
 Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin,
 Sum, Tan, Wan
 
+DAMARAN
 Found primarily in the northwest of Faerún, Damarans
 are of moderate height and build, with skin hues
 ranging from tawny to fair. Their hair is usually brown
@@ -1244,12 +1230,8 @@ Igan, Ivor, Kosef, MivaI, Orei, Pavel, Sergor; (female)
 Alethra, Kara, Katernin, Mara, Natali, Olma, Tana,
 Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov,
 Marsk, Nemetsk, Shemov, Starag
-ILLUSKAN
-
-p
 
 TETHYRIAN
-
 Widespread along the entire Sword Coast at the
 western edge of Faerún, Tethyrians are of medium build
 and height, with dusky skin that tends to grow fairer
@@ -1257,19 +1239,21 @@ the farther north they dwell. Their hair and eye colar
 varies widely, but brown hair and blue eyes are the most
 common. Tethyrians primarily use Chondathan names.
 
+ILLUSKAN
 IIluskans are tall, fair-skinned folk with blue ar steely
 gray eyes. Most have raven-black hair, but those who
 inhabit the extreme northwest have blond, red, ar
 light brown hair.
-
-TURAMI
-
 I1Iuskan Names: (Male) Ander, Blath, Bran, Frath,
 Geth, Lander, Luth, Malcer, Stor, Taman, Urth;
 (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga,
 Silifrey, Westra; (surnames) Brightwood, Helder.
 Hornraven, Lackman, Stormwind. Windrivver
 
+TURAMI
+Native to the southern shore of the Inner Sea, the
+Turami people are generally tall and muscular, with
+dark mahogany skin, curly black hair, and dark eyes.
 Turami Names: (Male) Anton, Diero. Marcon, Pieron,
 Rimardo, Romero, Salazar, Umbero; (female) Balama,
 Dona, Faila,jalana, Luisa, Marta, Quara, Selise,
@@ -1277,9 +1261,6 @@ Vonda; (surnames) Agosto, Astorio, Calabra, Domine,
 Falone, Marivaldi, Pisacar, Ramondo
 
 MULAN
-
-HUMAN TRAITS
-
 Dominant in the eastern and southeastern shores of
 the lnner Sea, the Mulan are generally tall, slim, and
 amber-skinned, with eyes of hazel ar brown. Their hair
@@ -1292,8 +1273,8 @@ Urhur; (female) Arizima, Chathi, Nephis, Nulara,
 Murithi, Sefris, Thola, Umara, Zolis; (surnames)
 Ankhalab, Anskuld, Fezim, Hahpet, Nathandem,
 Sepret, Uuthrakt
-RASHEMI
 
+RASHEMI
 Most often found east of the Inner Sea and often
 intermingled with the Mulan, Rashemis tend to be short,
 stout, and muscular. They usually have dusky skin, dark
@@ -1305,10 +1286,7 @@ Navarra, Shevarra, Tammith, Yuldra; (surnames)
 Chergoba, Dyernina, Iltazyara, Murnyethara,
 Stayanoga, Ulmokina
 
-Native to the southern shore of the Inner Sea, the
-Turami people are generally tall and muscular, with
-dark mahogany skin, curly black hair, and dark eyes.
-
+HUMAN TRAITS
 It's hard to make generalizations about humans, but
 your human character has these traits.
 Ability Score Increase. Your ability scores each
@@ -1332,21 +1310,14 @@ military phrases, and so on.
 
 ••
 
-VARIANT
-
-HUMAN
-
-••
-
-TRAITS
-
-If your eampaign uses the optional feat rules fram ehapter 5,
+VARIANT HUMAN TRAITS
+If your eampaign uses the optional feat rules fram chapter 5,
 your Dungeon Master might allow these varianttraits, ali of
 whieh replaee the human's Ability Seore Inerease trai!.
 Ability Score Increase. Two different ability seores of your
 ehoiee inerease by l.
 Skills. Vou gain profieieney in one skill ofyour ehoiee.
-Feat. Vou gain one feat of your ehoiee.
+Feat. Vou gain one feat of your choice.
 
 PART 1
 
@@ -1467,23 +1438,8 @@ dan, and when a dan needs help. it turns to another
 dragonborn
 dan before seeking aid from other racesor even fram the gods.
 
-DRAGONBORN
-
-NAMES
-
-Dragonborn
-have personal names given at birth,
-but they put their dan names first as a mark Df
-honor. A chi!dhood na me or nickname is often used
-among dutchmates
-as a descriptive term or a term
-of endearment.
-The name might recall an event or
-center on a habit.
-
 RACES
-
-lhe dragonborn and the rest ofthe raees in this ehapter are
+lhe dragonborn and the rest ofthe raees in this chapter are
 uneommon. lhey don't exist in every worid of D&D, and
 even where they are found. they are less widespread than
 dwarves. elves. halAings. and humans.
@@ -1522,16 +1478,19 @@ straight from the Nine Hells. People might make warding
 signs as a tieAing approaehes, eross the street to avoid
 passing near, or bar shop doors before a tieAing ean enter.
 
+DRAGONBORN NAMES
+Dragonborn have personal names given at birth,
+but they put their clan names first as a mark of
+honor. A childhood na me or nickname is often used
+among dutchmates as a descriptive term or a term of endearment.
+The name might recall an event or center on a habit.
 Male Names: Arjhan. Balasar. Bharash, Donaar, Ghesh.
 Heskan, Kriv. Medrash. Mehen. Nadarr. Pandjed,
 Patrin, Rhogar, Shamash. Shedinn. Tarhun. Torinn
 Female Names: Akra. Biri. Daar. Farideh, Harann.
 HaviJar, Jheri, Kava, Korinn. Mishann, NaJa, Perra,
 Raiann. Sora. Surina. Thava, Uadjit
-
-33
-
-Childhood Names: Climber. Earbender. Leaper. Pious.
+Childhood Names: Climber. Earbender. Leaper. Pious.
 Shieldbiter. Zealous
 Clan Names: Clethtinthiallor. Daardendrian. Delmirev.
 Drachedandion. Fenkenkabradon. Kepeshkmolik.
@@ -2226,7 +2185,7 @@ HALF-ORC
 
 TRAITS
 
-Your half-ore eharaeter has eertain traits deriving from
+Your half-ore charaeter has eertain traits deriving from
 your ore aneestry.
 
 ACCEPTANCE
@@ -2248,7 +2207,7 @@ inereases by I.
 Age. Half-ores mature a tittle faster than humans,
 reaehing adulthood around age 14. They age
 notieeably faster and rarely tive longer than 75 years.
-Alignment. Half-ores inherit a tendeney toward ehaos
+Alignment. Half-ores inherit a tendeney toward chaos
 from their ore parents and are not strongly inclincd
 toward good. Half-ores raised among ores and willillg
 to tive out their tives among them are usually evil.
