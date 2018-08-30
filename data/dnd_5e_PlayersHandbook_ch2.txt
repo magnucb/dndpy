@@ -1,0 +1,2448 @@
+CHAPTER
+
+2:
+
+RACES
+"
+
+I
+
+VISITTOONEOfTHE GREATCITIESINTHE
+worlds of OUNGEONS& ORAGONSWalerdeep, the Free Cily of Greyhawk, or
+even uncanny Sigil, the City of Ooorsoverwhelms lhe senses. Voices chatter in
+counlless differenl languages. The smells
+of cooking in dozens of differenl cuisines
+mingle with lhe odors of crowded slreels and poor
+sanitalion. Buildings in myriad architeclural styles
+display lhe diverse origins of their inhabilants.
+And lhe people lhemselves-people
+of varying size,
+shape, and coloro dressed in a dazzling speclrum
+of slyles and hues-represenl
+many differenl races,
+from diminulive halflings and stoul dwarves to
+majeslically beauliful elves, mingling among a variety
+of human ethnicities.
+Scattered among lhe members of these more common
+races are the lrue exolics: a hulking dragonborn here,
+pushing his way lhrough lhe crowd, and a sly liefling
+there, lurking in lhe shadows with mischief in her eyes.
+A group of gnomes laughs as one of lhem activales a
+clever wooden loy lhal moves of ils own accord. Halfelves and half-orcs live and work alongside humans,
+without fully belonging to lhe races of eilher of lheir
+parenls. And lhere, well oul of lhe sunlighl, is a lone
+drow-a fugilive from lhe sublerranean expanse of
+the Underdark, trying to make his way in a world
+thal fears his kind.
+
+RACIAL TRAITS
+The descriplion of each race includes racial traits lhal
+are common to members of lhal race. The following
+entries appear among lhe lrails of most races.
+ABILITY
+
+SCORE INCREASE
+
+Every race increases one or more of a characler's
+abilily scores.
+AGE
+
+The age entry noles the age when a member of lhe race
+is considered an adult, as well as the race's expected
+lifespan. This informalion can help you decide how
+old your characler is at lhe start of lhe game. Vou
+can choose any age for your characler, which could
+provide an explanation for some of your ability scores.
+For example, if you play a young or very old character,
+your age could explain a particularly low Strength or
+Conslitulion score, while advanced age could accounl
+for a high Inlelligence or Wisdom.
+ALIGNMENT
+
+Mosl races have tendencies loward cerlain alignments,
+described in this entry. These are nol binding for player
+characlers, bul considering why your dwarf is chaolic.
+for example, in defiance of lawful dwarf society can help
+you better define your characler,
+SIZE
+
+CHOOSING
+
+A RACE
+
+Humans are lhe most common people in lhe worlds of
+0&0, bul they live and work alongside dwarves, elves,
+halflings, and counlless olher fanlaslic species. Your
+character belongs lo one of lhese peoples.
+Nol every inlelligent race of lhe mulliverse is
+appropriale for a player-conlrolled advenlurer. Owarves,
+elves, halflings, and humans are the most common
+races to produce the sorl of advenlurers who make up
+lypical parlies. Oragonborn, gnomes, half-elves, halforcs, and lieflings are less common as adventurers.
+Orow, a subrace of elves, are also uncommon.
+Your choice of race affects many differenl aspecls of
+your character. /t establishes fundamenlal qualities thal
+exisl IhroughoUI your characler's adventuring career.
+When making lhis decision, keep in mind lhe kind of
+character you wanl lO play. For example, a halfling could
+be a good choice for a sneaky rogue, a dwarf makes a
+lough warrior, and an elf can be a maSler of arcane magic,
+Your characler race nol only affecIs your abilily scores
+and lrails bul also provides lhe cues for building your
+characler's story. Each race's descriplion in lhis chapler
+includes information to help you roleplay a characler of
+lhal race, including personality, physical appearance,
+features of sociely, and racial alignmenl lendencies.
+These delails are suggeslions to help you think aboul
+your characler; adventurers can deviate widely from lhe
+norm for lheir race. /t's worthwhile to consider why your
+character is differenl, as a helpful way to think aboul
+your characler's background and personalily.
+
+Characlers of mosl races are Medium, a size calegory
+including creatures lhal are roughly 4 lo 8 feet la 11.
+Members of a few races are Small (belween 2 and 4 feel
+la 11),which means lhal cerlain rules of lhe game affecl
+lhem differenlly. The mosl importanl of lhese rules
+is lhal Small characters have lrouble wielding heavy
+weapons, as explained in chapler 6.
+SPEED
+
+Your speed delermines how far you can move when
+lraveling (chapler 8) and fighling (chapler 9).
+LANGUAGES
+
+By virtue of your race, your character can speak, read,
+and wrlte cerlain languages. Chapler 4 lisls the mosl
+common languages of lhe 0&0 multiverse.
+SUBRACES
+
+Some races have subraces. Members of a subrace
+have lhe lrails of the parenl race in addition lo lhe
+lrails specified for lheir subrace. Relationships among
+subraces vary significantly from race lo race and
+world to world. In the Oragonlance campaign setting,
+for example, mountain dwarves and hill dwarves live
+logelher as differenl clans of lhe same people, bul in
+the Forgolten Realms, lhey live far aparl in separale
+kingdoms and call lhemselves shield dwarves and
+gold dwarves, respeclively.
+
+PARTI I RACES
+
+17
+
+SHORT AND STOUT
+Bold and hardy, dwarves are known as
+skilled warriors, miners, and workers
+of stone and melaI. Though lhey sland
+well under 5 feel tall, dwarves are so
+broad and compael lhal lhey can weigh
+as much as a human slanding nearly lwo
+feet laller. Their courage and endurance
+are also easily a maleh for any of
+lhe larger folk.
+Owarven skin ranges from deep brown to a paler
+hue linged wilh red, bul lhe most eommon shades are
+lighl brown or deep lan, like cerlain lones of earlh.
+Their hair, worn long bul in simple slyles, is usually
+black, gray, or brown, lhough paler dwarves oflen have
+red hair. Male dwarves value lheir beards highly and
+groom lhem carefully.
+
+LONG MEMORY, LONG GRUDGES
+
+DWARF
+"YER LATE, ELF!" CAME THE ROUGH EDGE OF A FAMILIAR
+
+voice. Bruenor Battlehammer
+
+walked up the back of his
+
+deadfoe, disregardingthefact
+
+that the heavy monster lay
+
+on top ofhis elvenfriend.
+
+In spite ofthe added discamfort,
+
+the dwarf's long, pointed, often-broken
+
+nose and gray-
+
+streaked though still-fiery red beard came as a welcame
+sight to Drizzt. "Knew I'dfindye
+
+in trouble if I came out
+
+an' lookedforyel"
+-R. A. Salvatore, The Crystal Shard
+Kingdoms rich in ancienI grandeur, halls carved into the
+rools of mountains, lhe echoing of picks and hammers
+in deep mines and blazing forges, a commitmenl 10
+clan and lradilion, and a burning halred of goblins and
+ores-lhese eommon lhreads unile ali dwarves.
+
+18
+
+PART I I RACES
+
+Owarves can live to be more than 400 years old, so lhe
+oldesl living dwarves often remember a very differenl
+world. For example, some of lhe oldesl dwarves living
+in Ciladel Felbarr (in lhe world of lhe Forgotten Realms)
+can recall lhe day, more lhan three cenluries ago, when
+ores conquered lhe forlress and drove lhem into an exile
+lhal lasled over 250 years. This longevity granls lhem a
+perspeclive on lhe world lhal shorter-lived races such as
+humans and halflings lack.
+Owarves are solid and enduring like the mounlains
+they love, wealhering lhe passage of cenluries wilh stoic
+endurance and little change. They respecl lhe lradilions
+of lheir clans, lracing their anceslry back lo lhe
+founding of lheir mosl ancienl slrongholds in lhe youth
+of lhe world, and don'l abandon those lradilions lighlly.
+ParI of lhose traditions is devolion lo lhe gods of lhe
+dwarves, who uphold lhe dwarven ideais of induslrious
+labor, skill in baltle, and devolion lo lhe forge.
+Individual dwarves are determined and loyal, lrue lo
+lheir word and decisive in action, somelimes lo lhe poinl
+of ~tubbornness. Many dwarves have a strong sense
+
+of justice, and they are slow to forget wrongs they have
+suffered. A wrong dane to one dwarf is a wrong dane to
+the dwarf's entire dan, so what begins as one dwarf's
+hunt for vengeance can become a full-blown dan feudo
+
+CLANS AND KINGDOMS
+Dwarven kingdoms stretch deep beneath the mountains
+where the dwarves mine gems and precious metais
+and forge items of wonder. They love the beauty and
+artistry of precious metais and fine jewelry, and in some
+dwarves this lave festers into avarice. Whatever wealth
+they can't find in their mountains, they gain through
+trade. They dislike boats, so enterprising humans and
+halflings frequently handle trade in dwarven goods
+along water routes. Trustworthy members of other races
+are welcome in dwarf settlements, though some areas
+are off limits even to them.
+The chief unit of dwarven society is the dan, and
+dwarves highly value social standing. Even dwarves
+who live far from their own kingdoms cherish their dan
+identities and affiliations, recognize related dwarves,
+and invoke their ancestors' names in oaths and curses.
+To be danless is the worst fate that can befall a dwarf.
+Dwarves in other lands are typically artisans,
+especially weaponsmiths, armorers, and jewelers. Some
+become mercenaries ar bodyguards, highly sought after
+for their courage and loyalty.
+
+GODS,
+
+GOLD,
+
+AND CLAN
+
+Dwarves who take up the adventuring life might be
+motivated bya desire for treasure-for its own sake, for
+a specilic purpose, ar even out of an altruistic desire to
+help others. Other dwarves are driven by the command
+ar inspiration of a deity, a direct calling or simply a
+desire to bring glory to one of the dwarf gods. Clan and
+ancestry are also important motivators. A dwarf might
+seek to restore a dan's lost honor, avenge an ancienl
+wrong the dan suffered, ar earn a new place within the
+dan after having been exiled. ar a dwarf might search
+for the axe wielded bya mighty ancestor, lost on the lield
+of battle centuries ago.
+
+SLOW
+
+TO TRUST
+
+Dwarves gel along passably well wilh mosl olher races. "The
+difference belween an acquainlance and a friend is aboul a
+hundred years," is a dwarf saying lhal mighl be hyperbole,
+bul cerlainly poinls lo how diflicull il can be for a member of
+a shorl-lived race Iike humans lo eam a dwarf's lrusl.
+Elves. "I!'s nol wise lo depend on lhe elves. No lelling whal
+an elf will do nexl; when lhe hammer meels lhe orc's head,
+lhey're as apllo slart singing as lo pull oul a sword. They're
+fiighly and frivolous. Two lhings lo be said for lhem, lhough:
+They don'l have many smilhs, bullhe ones lhey have do very
+fine work. And when ores ar goblins come slreaming down
+oul oflhe mounlains, an elf's good lo have aI your back. Nol
+as good as a dwarf, maybe, bul no doubllhey hale lhe ores
+as much as we do."
+Half/ings. "Sure, lhey're pleasanl folk. Sul show me a
+halfiing hera. An empire, a lriumphanl army. Even a lreasure
+for lhe ages made by halfiing hands. NOlhing. How can you
+lake lhem seriously?"
+Humans. "You lake lhe lime lo gel lo know a human, and
+by lhen lhe human's on her dealhbed. If you're lucky, she's
+gol kin-a daughler ar granddaughler, maybe-who's gol
+hands and hearl as good as hers. Tha!'s when you can make
+a human friend. And walch lhem gol They sellheir hearts on
+somelhing, lhey'll gel il, whelher i!'s a dragon's hoard ar an
+empire's lhrone. You have lo admire lhal kind of dedicalion,
+even if il gels lhem in lrouble more oflen lhan nol."
+
+~
+
+r
+
+DWARF NAMES
+A dwarf's na me is granted by a c1an elder, in accordance
+with tradition, Every proper dwarven na me has been
+used and reused down through the generations, A
+dwarf's name belongs to the c1an, not to the individual.
+A dwarf who misuses or brings shame to a c1an name
+is stripped of the na me and forbidden by law to use any
+dwarven name in its place,
+Male Names: Adrik, Alberich, Baern, Barendd, Brottor,
+Bruenor, Oain, Oarrak, Oelg, Eberk, Einkil, Fargrim,
+Flint, Gardain, Harbek, Kildrak, Morgran, Orsik,
+Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin,
+Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
+Female Names: Amber, Artin, Audhild, Bardryn,
+Oagnal, Oiesa, Eldeth, Falkrunn, Finellen, Gunnloda,
+Gurdis, Helja, Hlin, Kathra, Kristryd, lide, Liftrasa,
+Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
+Clan Names: Balderk, Battlehammer, Brawnanvil,
+Oankil, Fireforge, Frostbeard, Gorunn, Holderhek,
+Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln,
+Torunn, Ungart
+
+DWARF TRAITS
+Your dwarf character has an assortment of inborn
+abilities, part and parcel of dwarven nature.
+Ability Seore Inerease. Your Constitution seore
+increases by 2.
+Age. Owarves mature at the same rate as humans, but
+they're considered young until they reach the age of 50,
+On average, they live about 350 years.
+Alignment. Most dwarves are lawful, believing firmly
+in the benefits of a well-ordered society. They tend
+toward good as well, with a strong sense of fair play and
+a belief that everyone deserves to share in the benefits of
+a just order.
+Size. Owarves stand between 4 and 5 feet tall and
+average about 150 pounds. Your size is Medium.
+Speed. Your base walking speed is 25 feel. Your
+speed is not reduced by wearing heavy armor.
+Darkvision. Accustomed to life underground, you
+have superior vision in dark and dim conditions. Vou
+can see in dim light within 60 feet of you as if it were
+bright light, and in darkness as if it were dim lighl. Vou
+can't discern color in darkness, only shades of gray.
+Dwarven Resilienee. Vou have advantage on saving
+throws against poison, and you have resistance against
+poison damage (explained in chapter 9).
+Dwarven Combat Training. Vou have proficiency
+with the battleaxe, handaxe, throwing hammer,
+and warhammer.
+
+20
+
+PART
+
+I
+
+I
+
+RACES
+
+TooJProficieney. Vou gain proficiency with the
+artisan's tools of your choice: smith's tooIs, brewer's
+supplies, or mason's tools.
+Stoneeunning. Whenever you make an Intelligence
+(History) check related to the origin of stonework, you
+are considered proficient in the History skill and add
+double your proficiency bonus to the check, instead of
+your normal proficiency bonus.
+Languages. Vou can speak, read, and write Common
+and Owarvish. Owarvish is full of hard consonants and
+guttural sounds, and those characteristics spill over into
+whatever other language a dwarf might speak.
+Subraee. Two main subraces of dwarves populate the
+worlds of 0&0: hill dwarves and mountain dwarves.
+Choose one of these subraces.
+HILL DWARF
+
+As a hill dwarf, you have keen senses, deep intuition,
+and remarkable resilience. The gold dwarves of Faenln
+in their mighty southern kingdom are hill dwarves, as
+are the exiled Neidar and the debased Klar of Krynn in
+the Oragonlance setting.
+Ability Seore Inerease. Your Wisdom score
+increases by 1.
+Dwarven Toughness. Your hit point maximum
+increases by 1, and it increases by 1 every time you
+gain a leveI.
+MOUNTAIN
+
+DWARF
+
+As a mountain dwarf, you're strong and hardy,
+accustomed to a difficult life in rugged terrain. You're
+probably on the tall side (for a dwarf), and tend toward
+lighter coloration, The shield dwarves of northern
+Faerun, as well as the ruling Hylar c1an and the noble
+Oaewar c1an of Oragonlance, are mountain dwarves.
+Ability Seore Inerease. Your Strength score
+increases by 2.
+Dwarven Armor Training. Vou have proficiency with
+light and medium armor.
+
+••
+
+DUERGAR
+
+In cities deep in the Underdark live the duergar, ar gray
+dwarves. These vicious, stealthy slave traders raid lhe surface
+world for caplives, lhen sell lheir prey lo lhe olher races of
+lhe Underdark. They have innale magical abililies lo beco me
+invisible and lo lemporarily grow lo gianl size.
+
+ELF
+"I HAVE NEVER IMAGINED SUCH BEAUTY EXISTED,"
+
+Goldmoon said soft!)'. The day's march had been difficult.
+but the reward at the end was beyond their dreams.
+The companions stood on a high cliff over thefabled
+city of Qualinost.
+Four slender spires rasefrom the city's corners like glistening spindles, their brilliant white stone marbled with shining
+
+silver. Graceful arches. swoopingfrom spire to spire, soared
+through the air. Crafted by ancient dwarven metalsmiths.
+they were strongenough to hold the weight of an army,yet
+they appeared so delicate that a bird lighting on them might
+overthraw the balance, These glistening arches were the
+city's on!)' boundaries; there was no wall around Qualinost.
+The elven city opened its arms loving!)' to the wilderness.
+-Margaret
+
+Weis & Tracy Hickman,
+Dragons of Autumn Twilight
+
+Elves are a magical people of otherworldly grace, living
+in the world but not entirely part of it. They live in
+places of ethereal beauty, in the midst of ancient forests
+ar in silvery spires glittering with faerie light, where
+soft music drifts through the air and gentle fragrances
+waft on the breeze. Elves lave nature and magic, art
+and artistry, music and poetry, and the good things
+of the world.
+
+females are about the same height, and males are only
+marginaIly heavier than females.
+Elves' coloration encompasses the normal human
+range and also includes skin in shades of copper,
+bronze, and almost bluish-white, hair of green ar blue,
+and eyes like pools of liquid gold ar silver. Elves have no
+facial and little body hair. They favor elegant c10thing in
+bright colors, and they enjoy simple yet lovely jewelry,
+
+SLENDER AND GRACEFUL
+
+A
+
+With their unearthly grace and fine features, elves
+appear hauntingly beautiful to humans and members
+of many other races. They are slightly shorter than
+humans on average, ranging from well under 5 feet
+tall to just over 6 feet. They are more slender than
+humans, weighing only 100 to 145 pounds. Males and
+
+Elves can live weIl over 700 years, giving them a broad
+perspective on events that might trouble the shorterlived races more deeply, They are more often amused
+than excited, and more likely to be curious than
+greedy. They tend to remain aloof and unfazed by petty
+happenstance. When p"rs"ing a goal, however, whether
+
+TIMELESS
+
+PERSPECTIVE
+
+PART tRACES
+21
+
+adventuring on a mission or learning a new skill or art,
+elves can be focused and relentless. They are slow to
+make friends and enemies, and even slower to forget
+them. They reply to petty insults with disdain and to
+serious insults with vengeance.
+Like the branches of a young tree, elves are f1exible
+in the face of danger. They trust in diplomacy and
+compromise to resolve differences before they escalate
+to violence. They have been known to retreat from
+intrusions into their woodland homes, confident
+that they can simply wait the invaders oul. But when
+the need arises, elves reveal a stern martial side,
+demonstrating skill wilh sword, bow, and strategy.
+
+HIDDEN
+
+WOODLAND
+
+REALMS
+
+Most elves dwell in small forest villages hidden among
+the trees. Elves hunt game, gather food, and grow
+vegetables, and their skill and magie allow them to
+support themselves without the need for clearing and
+plowing land. They are talented artisans, crafting finely
+worked clothes and art objects. Their contact with
+outsiders is usually limited, though a few elves make a
+good living by trading crafted items for metais (which
+thcy have no interest in mining).
+Elves encountered outside their own lands are
+commonly traveling minstrels, artists, or sages. Human
+nobles compete for lhe services of elf instructors to
+teach swordplay or magie to their children.
+
+EXPLORATION
+
+AND ADVENTURE
+
+EI\'es lake up advenluring out of wanderlust. Since
+they are so long-lived, they can enjoy centuries of
+exploration and discovery. They dislike lhe pace of
+human society, whieh is regimenled from day lo day but
+constantly changing over deeades, so lhey find careers
+that let them travei freely and set their own pace. Elves
+also enjoy exercising their martial prowess or gaining
+greatcr magical power, and adventuring allo\Vs them
+PART
+
+22
+
+I
+
+I
+
+RACES
+
+to do so. Some mlght join with rebels fighting against
+oppression, and others might become champions of
+moral causes.
+
+ELF NAMES
+Elves are considered children until they declare
+themselves adults, some time after the hundredth
+birthday, and before this period they are called
+by child names.
+On declaring adulthood, an elf selects an adult name,
+although those who knew him or her as a youngster
+mlght continue to use the child name. Each elf's adult
+na me is a uni que creation, though It might reflect
+the names of respected individuaIs or other family
+members. Little distinction exists between male
+names and female names; the groupings here reflect
+only general tendencies. In addition, every elf bears a
+family na me, typieally a comblnation of other Elvish
+words. Some elves traveling among humans translate
+their family names into Common, but others retain the
+Elvish version.
+Child Names: Ara, Bryn, Del, Eryn, Faen, Innil,
+Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai,
+Syllin, Thia, Vali
+Male Adult Names: Adran, Aelar, Aramil, Arannis,
+Aust, Beiro, Berrian, Carrie, Enialis, Erdan, Erevan,
+Galinndan, Hadarai, Heian, Himo. Immeral, Ivellios,
+Laucian, Mindartis, Paelias, Peren, Quarion, Riardon,
+Rolen, Soveliss, Thamior, Tharivol, Theren, Varis
+
+'.;,.
+
+HAUGHTY
+
+BUT GRACIOUS
+
+Although they can be haughty, elves are generally gracious
+even to those who fali short of their high expectationswhich is most non.elves. 5till, they can find good in just
+about anyone.
+Dwarves. "Dwarves are dull, c1umsy oafs. But what they
+lack in humor, sophistication, and manners, they make up in
+valor. And I must admit, their best smiths produce art that
+approaches elven quality."
+Haljlings. "Halflings are people of simple pleasures, and
+that is not a quality to scorn. lhey're good folk, they care
+for each other and tend their gardens, and they have proven
+themselves tougher than they seem when the need arises."
+Humans. "Ali that haste, their ambition and drive to
+accomplish something before their brieflives pass awayhuman endeavors seem 50 futile sometimes. But then
+you look at what they have accomplished, and you have to
+appreciate their achievements. If only they could slow down
+and learn some refinement."
+
+~
+
+,
+
+Female Adult Names: Adrie, Althaea, Anastrianna,
+Andraste, Antinua, Bethrynna, Birel, Caelynn,
+Orusilia, Enna, Felosial, lelenia,jelenneth, Keyleth,
+Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna,
+Quillathe, Sariel, Shanairra, Shava, Silaqui,
+Theirastra, Thia, Vadania, Valanthe, Xanaphia
+Fami1y Names (Common Translations): Amakiir
+(Gemflower), Amastacia (Starflower), Galanodel
+(Moonwhisper), Holimion (Oiamonddew), IIphelkiir
+(Gemblossom), Liadon (Silverfrond), Meliamne
+(Oakenheel), Nailo (Nightbreeze), Siannodel
+(Moonbrook), Xiloscient (Goldpetal)
+
+ELF TRAITS
+Your elf character has a variety of natural abilities, the
+result of thousands of years of elven refinemenl.
+Ability Score Increase. Your Oexterity score
+increases by 2.
+Age. AIthough elves reach physical maturity at about
+the same age as humans, the elven understanding of
+adulthood goes beyood physical growth to eocompass
+worldly experience. Ao elf typically c1aims adulthood
+aod ao adult name arouod the age of 100 aod cao live
+to be 750 years old.
+Alignment. Elves love freedom, variety, aod selfexpressioo, so they lean stroogly toward the geotler
+aspects of chaos. They value aod protect others'
+freedom as well as their owo, aod they are more
+often good thao 001. The drow are ao exceptioo; their
+exile ioto the Uoderdark has made them vicious aod
+daogerous. Orow are more often evil thao oot.
+Size. Elves raoge from under 5 to over 6 feet tall aod
+have sleoder builds. Your size is Medium.
+Speed. Your base walkiog speed is 30 feel.
+Darkvision. Accustomed to twilit forests and the oight
+sky, you have superior vision io dark aod dim cooditioos.
+Vou cao see io dim light withio 60 feet of you as if it
+were bright light, aod io darkness as if it were dim lighl.
+Vou cao'l discero color io darkoess, ooIy shades of gray. ,
+Keen Senses. Vou have proficieocy io the
+Perceptioo skill.
+Fey Ancestry. Vou have advaolage 00 saviog throws
+agaiost beiog charmed, and magic cao't put you to sleep.
+
+Trance. Elves doo't need to sleep. Ioslead, lhey
+meditate deeply, remainiog semicooscious, for 4
+hours a day. (The Commoo word for such meditatioo
+is "traoce.") While meditatiog, you cao dream after a
+fashioo; such dreams are actually meotal exercises that
+have beco me reflexive through years of practice. Afler
+resliog io lhis way, you gaio lhe same beoefit that a
+humao does from 8 hours of sleep.
+Languages. Vou cao speak, read, and write Common
+aod Elvish. Elvish is fluid, wilh subtle iotonatioos aod
+iotricate grammar. Elveo literature is rich aod varied,
+aod their soogs aod poems are famous among other
+races. Maoy bards learo lheir laoguage so lhey cao add
+Elvish ballads lo lheir repertoires.
+Subrace. Aocieot divides amoog the elveo people
+resulled in lhree maio subraces: high elves, wood elves,
+aod dark elves, who are commooly called drow. Choose
+ooe of lhese subraces. lo some worlds, these subraces
+are divided slill further (such as lhe suo e1ves and mooo
+elves of the Forgotteo Realms), so if you wish, you can
+choose a oarrower subrace.
+HIGH ELF
+
+As a high elf, you have a keeo mind and a mastery of
+at least lhe basics of magic. In many of the worlds
+of 0&0, lhere are two kinds of high elves. Ooe lype
+(which includes lhe gray e1ves aod valley elves of
+Greyhawk, the Silvaoesti of Oragoolaoce, and lhe
+sun elves of lhe Forgotteo Realms) is haughty and
+reclusive, believing lhemselves to be superior lo
+ooo-elves and even other elves. The other type
+(iocludiog the high elves of Greyhawk. the
+Qualinesli of Oragonlance, and the moon elves
+of the Forgotteo Realms) are more common
+and more friendly, and oflen encouolered
+among humans and olhe r races.
+The sun elves of Faeruo (also called gold
+elves or sunrise elves) have bronze skin and
+hair of copper, black, or golden blood. Thcir
+eyes are golden, silver, or black. Moon elves (also
+called silver elves or gray elves) are much paler,
+with alabasler skio somelimes tioged wilh blue.
+They oflen have hair of silver-while, black, or blue,
+but various shades of blond, brown, and red are
+not uncommon. Their eyes are blue or green and
+flecked with gold.
+Ability Score Increase. Your lotelligeoce score
+iocreases by I.
+ElfWeapon Training. Vou have proficiency with
+lhe longsword, shortsword, shortbow, and longbow.
+
+P'\RTl
+
+(t-S
+
+Cantrip. Vou know one Canlrip of your choice from
+lhe wizard spelllisl. Inlelligence is your spellcasling
+abilily for il.
+',."
+Extra Language. Vou can speak, read, and wrile one
+exlra language of your choice.
+WOOD ELF
+
+As a wood elf, you have keen senses and inluilion, and
+your fleel feel carry you quickly and sleallhily lhrough
+your nalive foresls. This calegory includes lhe wild
+elves (grugach) of Greyhawk and lhe Kagonesli of
+Dragonlance, as well as lhe races called wood elves in
+Greyhawk and lhe Forgolten Realms. [n Faenln, wood
+elves (also called wild elves. green elves, or foresl elves)
+are reclusive and dislrusling of non-elves.
+Wood elves' skin lends lo be copperish in hue,
+somelimes wilh lraces of green. Their hair lends loward
+browns and blacks, bul il is occasionally blond or
+copper-colored. Their eyes are green, brown, or hazel.
+Ability Score Increase. Your Wisdom score
+increases by 1.
+ElfWeapon Training. Vou have proficiency wilh lhe
+longsword, shorlsword, shorlbow, and longbow.
+F1eet ofFoot. Your base walking speed
+increases lo 35 feel.
+Mask ofthe Wild. Vou can altempllo hide even when
+you are only lighlly obscured by foliage, heavy rain,
+falling snow, misl, and olher nalural phenomena.
+
+DARK ELF (DROW)
+
+Descended from an earlier subrace of dark-skinned
+elves; lhedrow were banished from lhe surface world
+for following lhe goddess Lollh down lhe palh lo
+evil and corruplion. Now lhey have builllheir own
+civilizalion in lhe deplhs of lhe Underdark, palterned
+afler lhe Way of Lollh. Also called dark elves. lhe drow
+have black skin lhal resemb[es polished obsidian and
+slark while ar pale yellow hair. They commonly have
+very pale eyes (so pale as lObe mislaken for while) in
+shades of lilac, silver, pink, red, and blue. They lend lo
+be smaller and lhinner lhan mosl elves.
+Drow advenlurers are rare, and lhe race does nol exisl
+in ali worlds. Check wilh your Dungeon Masler lo see
+if you can play a drow characler.
+Ability Score Increase. Your Charisma score
+increases by 1.
+Superior Darkvision. Your darkvision has a
+radius of 120 feel.
+SunJight Sensitivity. Vou have disadvanlage on altack
+rolls and on Wisdom (Perceplion) checks lhal rely on
+sighl when you, lhe largel of your altack, ar whalever
+you are trying to perceive is in direcl sunlighl.
+Drow Magic. Vou know lhe dancing Jights canlrip.
+When you reach 3rd levei, you can casllhe faerie tire
+spell once per day. When you reach 51h levei, you can
+also casl lhe darkness spell once per day. Charisma is
+your spellcasling abilily for lhese spells.
+Drow Weapon Training. Vou have proficiency with
+rapiers, shorlswords, and hand crossbows.
+4
+THE
+
+,
+DARKNEss
+
+OF THE DRow
+
+Were il nol for one renowned exceplion, lhe race of drow
+would be universally reviled. lo mosl, lhey are a race of
+demon-worshiping marauders dwelling in lhe sublerranean
+deplhs of lhe Underdark, emerging only on lhe blackesl
+nighls lo pillage and slaughler lhe surface dwellers lhey
+despi se. lheir sociely is depraved and preoccupied wilh lhe
+favor of Lollh, lheir spider-goddess, who sanclions murder
+and lhe exlerminalion of enlire families as noble houses
+vie for posilion.
+Yel one drow, alleasl, broke lhe mold. In lhe world of lhe
+Forgotten Realms, Drizzl Do'Urden, ranger of lhe North, has
+proven his qualily as a good-hearted defender of lhe weak
+and innocent. Rejecling his herilage and adrift in a world lhal
+looks upon him wilh lerror and loalhing, Drizzl is a model
+for lhose few drow who follow in his foolsleps, lrying lo find
+a life apart from lhe evil sociely oflheir Underdark homes.
+Drow grow up believing lhal surface-dwelling races are
+inferior, worlhless excepl as slaves. Drow who develop a
+conscience or find il necessary lo cooperale wilh members of
+olher races find il hard lo overcome lhal prejudice, especially
+when lhey are 50 often on lhe receiving end of halred.
+
+The comforts of home are the goals of most halflings'
+lives: a place to settle in peace and quiet, far from
+marauding monsters and clashing armies; a blazing tire
+and a generous meal; fine drink and fine conversation.
+Though some halflings live out their days in remote .
+agricultural communities, others form nomadic bands
+that travei constantly, lured by the open road and the
+wide horizon to discover the wonders of new lands and
+peoples. But even these wanderers love peace, food,
+hearth, and home, though home might be a wagon
+jostling along an dirt road or a raft floating downriver.
+
+SMALL ANO PRACTICAL
+
+HALFLING
+REGIS THE HALFLING,
+
+THE ONLY ONE OF HIS KIND FOR
+
+hundreds ofmiles in a1lY direction, /ocked hisfmgers behind his head and /eaned back against the mos~ b/anket
+of the tree trunk. Regis was short, even by the standards
+of his diminutive roce, with the fluff of his curfy brawn
+/ocks barefy cresting the three-foot mark, but his be/fy was
+
+The diminutive halflings survive in a world full of larger
+creatures by avoiding notice or, barring that, avoiding
+offense. Standing about 3 feet tall, they appear re1atively
+harmless and so have managed to survive for centuries
+in the shadow of empires and on the edges of wars and
+political strife. They are inclined to be stout, weighing
+between 40 and 45 pounds.
+Halflings' skin ranges from tan to pale with a ruddy
+cast, and their hair is usually brown or sandy brown
+and wavy. They have brown or hazel eyes. Halfling men
+often sport long sideburns, but beards are rare among
+them and mustaches even more so. They like to wear
+simple, comfortable, and practical clothes, favoring
+bright colors.
+Halfling practicality extends beyond their clothing.
+They're concerned with basic needs and simple
+pleasures and have little use for ostentation. Even the
+wealthiest of halflings keep their treasures locked in a
+cellar rather than on display for ali to see. They have
+a knack for finding the most straightforward solution
+to a problem, and have little patience for dithering.
+
+ampfy thickened by his love of a good mea/, ar severa/, as
+the opportunities
+
+presented themse/ves. The crooked stick
+
+that served as hisfishingpole
+
+rase up above him, c/enched
+
+between two ofhis toes, and hungout
+
+over the quiet /ake,
+
+mirrared perfectfy in the glas~ surface of Maer Dua/don.
+-R.A. Salvatore, The Crysta/ Shard
+
+PART I
+
+I
+
+RACES
+
+KINO ANO CURIOUS
+Halflings are an affable and cheerful people. They
+cherish the bonds of family and friendship as well
+as the comforts of hearth and home, harboring few
+dreams of gold or glory. Even adventurers among
+them usually venture into the world for reasons of
+
+AFFABLE
+
+community, friendship, wanderlust, ar curiosity. They
+lave discovering new things, even sim pie things, such
+as an exotic food ar an unfamiliar style of c1othing.
+Halflings are easily moved to pity and hate to see any
+living thing suffer. They are generous, happily sharing
+what they have even in lean times.
+
+BLEND INTO THE CROWD
+Halflings are adept at fitting into a community of
+humans, dwarves, ar elves, making themselves valuable
+and weJcome. The combination of their inherent stealth
+and their unassuming nature helps halflings to avoid
+unwanted attention.
+Halflings work readily with others, and they are loyal
+to their friends, whether halfling ar otherwise. They can
+display remarkable ferocity when their friends, families,
+ar communities are threatened.
+
+PASTORAL PLEASANTRIES
+Most halflings live in small, peaceful communities with
+large farms and well-kept graves. They rarely build
+kingdoms of their own ar even hold much land beyond
+their quiet shires. They typically don't recognize any
+sort of halfling nobility ar royalty, instead looking to
+family elders to guide them. Families preserve their
+traditional ways despite the rise and fali of empires.
+Many halflings live among other races, where the
+halflings' hard work and loyal outlook offer them
+abundant rewards and creature comforts. Some halfling
+communities travei as a way of life, driving wagons ar
+guiding boats from place to place and maintaining no
+permanent home.
+
+AN D POSITIVE
+
+Halflings lry lo gel along wilh everyone else and are loalh lo
+make sweeping generalizalions-especially
+negative ones.
+Dwarves. "Dwarves make loyal friends, and you can counl
+on lhem lo keep lheir word. Bul would il hurt lhem lo smile
+once in a whilel"
+Elves. "They're 50 beauliful! Their faces, lheir music, lheir
+grace and alI. 11'5 like they slepped oul of a wonderful dream.
+Bul lhere's no lelling what's going on behind lheir smiling
+faces-surely more lhan lhey ever let on."
+Humans. "Humans are a 101 like us, really. AI leasl some
+of Ih em are. 51ep oul of lhe caslles and keeps, go lalk lo lhe
+farmers and herders and you'll find good, solid folk. Nol lhal
+lhere's anylhing wrong wilh lhe barons and soldiers-you
+have lo admire lheir conviclion. And by prolecling lheir own
+lands, lhey prolecl us as well."
+
+••
+
+EXPLORING
+
+•••
+OPPORTUNITIES
+
+Halflings usually seI out on the adventurer's path lo
+defend lheir communities, support their friends, or
+explore a wide and wonder-filled world. For them,
+adventuring is less a career than an opportunity or
+sometimes a necessity.
+
+HALFLING
+
+NAMES
+
+A halfling has a given name, a family name, and possibly
+a nickname. Family names are often nicknames that
+stuck so tenaciously they have been passed down
+through the generations.
+Male Names: Alton, Ander, Cade, Corrin, Eldon, Errich,
+Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn,
+Perrin, Reed, Roscoe, Wellby
+Female Names: Andry, Bree, Callie, Cora, Euphemia,
+jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela,
+Portia, Seraphina, Shaena, Trym, Vani, Verna
+Family Names: Brushgather, Goodbarrel, Greenbottle,
+High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage,
+Tosscobble, Underbough
+
+PART
+
+I
+
+I
+
+RACES
+
+27
+
+HALFLING
+
+TRAITS
+
+Your halfling character has a number of traits in
+common with ali other halflings.
+AbiJity Score Increase. Your Dexterity score
+increases by 2.
+Age. A halfling reaches adulthood at the age of
+20 and generally lives into the middle of his or her
+second century.
+Alignment. Most halflings are lawful good. As a rule,
+they are good-hearted and kind, hate to see others in
+pain, and have no tolerance for oppression. They are
+also very orderly and traditional, leaning heavily on
+the support of their community and the comfort of
+their old ways.
+Size. Halflings average about 3 feet tall and weigh
+about 40 pounds. Your size is Small.
+Speed. Your base walking speed is 25 feel.
+Lucky. When you roll a 1 on an attack roll, ability
+check, or saving throw, you can reroll the die and must
+use the new roll.
+Brave. Vou have advantage on saving throws against
+being frightened.
+Halfling Nimbleness. Vou can move through the
+space of any creature that is of a size larger than yours.
+
+Languages. Vou can speak, read, and write Common
+and Halfling. The Halfling language isn't secret, but
+halflings are loath to share it with others. They write
+very little, so they don't have a rich body of literature.
+Their oral tradition. however, is very strong. Almost ali
+halflings speak Common to converse with the people
+in whose lands they dwell or through which they .
+are traveling.
+Subrace. The two main kinds of halfling. lightfoot and
+stout, are more like closely related families than true
+suhraces. Choose one of these subraces.
+LIGHTFOOT
+
+As a lightfoot halfling, you can easily hide from notice,
+even using other people as cover. You're inclined to be
+affable and get along well with others. In the Forgotten
+Realms, lightfoot halflings have spread the farthest and
+thus are the most common variety.
+Lightfoots are more prone to wanderlust than other
+halflings. and often dwell alongside other races or take
+up a nomadic life. In the world of Greyhawk. these
+halflings are called hairfeet or tallfellows.
+AbiJity Score Increase. Your Charisma score
+increases by 1.
+Naturally Stealthy. Vou can attempt to hide even
+when you are obscured only by a creature that is at least
+one size larger than you.
+STOUT
+
+As a stout halfling. you're hardier than average and have
+some resistance to poison. Some say that stouts have
+dwarven blood. In the Forgotten Realms, these halflings
+are called stronghearts. and they're most common
+in the south.
+AbiJity Score Increase. Your Constitution score
+increases by 1.
+Stout Resilience. Vou have advantage on saving
+throws against poison, and you have resistance
+against poison damage.
+
+PART I
+
+I
+
+RACES
+
+•
+
+HUMAN
+THESE WERE THE STORIES OF A RESTLESS PEOPLE WHO
+
+long ago took to the seas and rivers in longboats.jirst
+
+to
+
+pillage and terrorize, then to settle. Yet there was an energy.
+a love of adventure. that sangfrom
+
+every page. Long into
+
+the night Liriel read. lighting candle after precious candle.
+She'd never given much thought to humans. but these
+storiesfascinated
+
+her. In theseyellowed
+
+pages were tales of
+
+bold heroes. strange andjierce animais. mighty primitive gods.
+and a magic that was part andfabric ofthat distant land.
+-Elaine
+
+Cunningham.
+
+Daughterofthe
+
+Drow
+
+In the reckonings of most worlds. humans are the
+youngest of the common races. late to arrive on the
+world scene and short-lived in comparison to dwarves.
+elves. and dragons. Perhaps it is because of their shorter
+lives that they strive to achieve as much as they can in
+the years they are given. Or maybe they feel they have
+something to prove to the elder races. and that's why
+they build their mighty empires on the foundation of
+conquest and trade. Whatever drives them. humans
+are the innovators. the achievers. and the pioneers
+of the worlds.
+
+A
+
+BROAD SPECTRUM
+
+With their penchant for migration and conquest.
+humans are more physically diverse than other common
+races. There is no typical humano An individual can
+stand from 5 feet to a little over 6 feet tall and weigh
+fram 125 to 250 pounds. Human skin shades range
+fram nearly black to very pale. and hair colors from
+black to blond (curly. kinky. or straight); males might
+sport facial hair that is sparse or thick. A lot of humans
+have a dash of nonhuman blood. revealing hints of elf.
+ore, or other lineages. Humans reach adulthood in their
+late teens and rarely live even a single century.
+
+VARIETY IN ALL THINGS
+Humans are the most adaptable and ambitious people
+among the common races. They have widely varying
+tastes, morais, and customs in the many different lands
+where they have settled. When they settle, though,
+they stay: they build cities to last for the ages, and
+great kingdoms that can persist for long centuries. An
+individual human might have a relatively short life span,
+but a human nation or culture preserves traditions
+with origins far beyond the reach of any single human's
+memory. They live fully in the present-making
+them
+well suited to the adventuring life-but also plan for the
+future, striving to leave a lasting legacy. Individually and
+as a group, humans are adaptable opportunists, and
+they stay alert to changing political and social dynamics.
+PART
+
+I
+
+I
+
+RACES
+
+EVERYONE'S
+
+SECONO-BEST
+
+FRIENOS
+
+Just as readily as they mix with each other, humans mingle
+with members of other races. They get along with almost
+everyone, though they might not be close to many. Humans
+serve as ambassadors,
+diplomats,
+magistrates,
+merchants,
+and functionaries
+of ali kinds.
+Dwa,ves. "They're stout folk, stalwart friends, and true to
+their word. Their greed for gold is their downfall, though."
+Elves. "ll's best not to wander into elven woods. They don't
+like intruders, and you'll as likely be bewitched as peppered
+with arrows. 5till, if an elf can get past that damned racial
+pride and actually treat you like an equal, you can leam a lot
+from them."
+Ha/flings. "ll's hard to beat a meal in a halfling home, as
+long as you don't crack your head on the ceiling-good
+food
+and good stories in front of a nice, warm fire. Ifhalflings had
+a shred of ambition, they might really amount to something."
+
+~
+
+~
+
+LASTING INSTITUTIONS
+Where a single elf or dwarf might take on the
+responsibility of guarding a speciallocation or a
+powerful secret, humans found sacred orders and
+institutions for such purposes. While dwarf c1ans and
+halfling elders pass on the ancient traditions to each
+new generation, human temples, governments, Iibraries,
+and codes of law fix their lradilions in lhe bedrock of
+history. Humans dream of immorlality, but (excepl for
+lhose few who seek undeath or divine ascension to
+escape dealh's c1utches) they achieve il by ensuring that
+they will be remembered when lhey are gone.
+Allhough some humans can be xenophobic, in
+generallheir societies are inclusive. Human lands
+welcome large numbers of nonhumans compared lo the
+proporlion of humans who live in nonhuman lands.
+
+EXEMPLARS OF AMBITION
+Humans who seek advenlure are lhe mosl daring and
+ambilious members of a daring and ambilious race.
+They seek to earn glory in the eyes of lheir fellows
+by amassing power, wealth, and fame. More than
+olhe r people, humans champion causes rather lhan
+lerritories or groups.
+
+HUMAN
+
+NAMES AND ETHNICITIES
+
+Having so much more variely than olher cullures,
+humans as a whole have no typical names. Some human
+
+PART
+
+3°
+
+t
+
+I
+
+RACES
+
+parents give their children names from olher languages,
+such as Dwarvish or Elvish (pronounced more or less
+correctly), bul mosl parenls give names that are Iinked
+lo their region's cullure or lo lhe naming lraditions of
+their ancestors.
+The malerial cullure and physical characleristics
+of humans can change wildly from region lo region.
+In the Forgolten Realms, for example, lhe c101hing,
+archileclure, cuisine, music, and Iilerature are different
+in lhe norlhwestern lands of lhe Silver Marches than
+in dislanl Turmish or Impillur to the easl-and even
+more dislinclive in far-off Kara-Tur. Human physical
+characleristics, lhough, vary according lOlhe ancient
+migrations of lhe earliesl humans, so lhallhe humans
+of the Silver Marches have every possible varialion of
+coloralion and features.
+In the Forgotten Realms, nine human elhnic groups
+are widely recognized, lhough over a dozen olhers are
+found in more localized areas of Faerun. These groups,
+and lhe lypical names of lheir members, can be used as
+inspiralion no matter which world your human is in.
+CALISHITE
+
+Shorler and slighler in build than mos I olher humans,
+Calishites have dusky brown skin, hair, and eyes.
+They're found primarily in soulhwest Faerun.
+Calishite Names: (Male) Aseir, Bardeid, Haseid.
+Khemed. Mehmen. Sudeiman, Zasheir; (female)
+Alala, Ceidil. Hama, Jasmal, Meilil, Seipora, Yasheira,
+Zasheida; (surnames) Basha, Dumein,Jassan, Khalid.
+Moslana. Pashar, Rein
+CHONDATHAN
+
+Chondalhans are slender, lawny-skinned folk wilh
+brown hair that ranges from almosl blond lo almost
+black. Most are tall and have green or brown eyes,
+but lhese trails are hardly universal. Humans of
+Chondalhan descenl dominale the centrallands of
+Faerun, around the Inner Sea.
+
+Chondathan Names: (Male) Darvin, Dorn, Evendur,
+Gorstag, Grim, Helm, Malark, Morn, Randal,
+Stedd; (female) Arveene, Esvele, jhessail, Kerri,
+Lureene, Miri, Rowan, Shandri, Tessele; (surnames)
+Amblecrown, Buckman, Dundragon, Evenwood,
+Greycastle, Tallstag
+
+SHOU
+The Shou are the most numerous and powerful ethnic
+groJ in Kara-Tur, far to the east of Faerún. They are
+yellowish-bronze in hue, with black hair and dark
+eyes. Shou surnames are usually presented before
+the given name.
+
+DAMARAN
+
+Shou Names: (Male) An, Chen, Chi, Fai, jiang, Jun,
+Lian, Long, Meng, On, Shan, Shui, Wen; (female)
+Bai, Chao,jia, Lei, Mei, Qiao, Shui, Tai; (surnames)
+Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin,
+Sum, Tan, Wan
+
+Found primarily in the northwest of Faerún, Damarans
+are of moderate height and build, with skin hues
+ranging from tawny to fair. Their hair is usually brown
+ar black, and their eye colar varies widely, though brown
+is most common.
+Damaran Names: (Male) Bar, Fadei, Glar, Grigor,
+Igan, Ivor, Kosef, MivaI, Orei, Pavel, Sergor; (female)
+Alethra, Kara, Katernin, Mara, Natali, Olma, Tana,
+Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov,
+Marsk, Nemetsk, Shemov, Starag
+ILLUSKAN
+
+p
+
+TETHYRIAN
+
+Widespread along the entire Sword Coast at the
+western edge of Faerún, Tethyrians are of medium build
+and height, with dusky skin that tends to grow fairer
+the farther north they dwell. Their hair and eye colar
+varies widely, but brown hair and blue eyes are the most
+common. Tethyrians primarily use Chondathan names.
+
+IIluskans are tall, fair-skinned folk with blue ar steely
+gray eyes. Most have raven-black hair, but those who
+inhabit the extreme northwest have blond, red, ar
+light brown hair.
+
+TURAMI
+
+I1Iuskan Names: (Male) Ander, Blath, Bran, Frath,
+Geth, Lander, Luth, Malcer, Stor, Taman, Urth;
+(female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga,
+Silifrey, Westra; (surnames) Brightwood, Helder.
+Hornraven, Lackman, Stormwind. Windrivver
+
+Turami Names: (Male) Anton, Diero. Marcon, Pieron,
+Rimardo, Romero, Salazar, Umbero; (female) Balama,
+Dona, Faila,jalana, Luisa, Marta, Quara, Selise,
+Vonda; (surnames) Agosto, Astorio, Calabra, Domine,
+Falone, Marivaldi, Pisacar, Ramondo
+
+MULAN
+
+HUMAN TRAITS
+
+Dominant in the eastern and southeastern shores of
+the lnner Sea, the Mulan are generally tall, slim, and
+amber-skinned, with eyes of hazel ar brown. Their hair
+ranges from black to dark brown, but in the lands where
+the Mulan are most prominent, nobles and many other
+Mulan shave of[ ali their hair.
+Mulan Names: (Male) Aoth, Bareris, Ehput-Ki,
+Kethoth, Mumed, Ramas, So-Kehur, Thazar-De,
+Urhur; (female) Arizima, Chathi, Nephis, Nulara,
+Murithi, Sefris, Thola, Umara, Zolis; (surnames)
+Ankhalab, Anskuld, Fezim, Hahpet, Nathandem,
+Sepret, Uuthrakt
+RASHEMI
+
+Most often found east of the Inner Sea and often
+intermingled with the Mulan, Rashemis tend to be short,
+stout, and muscular. They usually have dusky skin, dark
+eyes, and thick black hair.
+Rashemi Names: (Male) Borivik, Faurgar,jandar,
+Kanithar, Madislak, Ralmevik, Shaumar, Vladislak;
+(female) Fyevarra, Hulmarra, Immith, Imzel,
+Navarra, Shevarra, Tammith, Yuldra; (surnames)
+Chergoba, Dyernina, Iltazyara, Murnyethara,
+Stayanoga, Ulmokina
+
+Native to the southern shore of the Inner Sea, the
+Turami people are generally tall and muscular, with
+dark mahogany skin, curly black hair, and dark eyes.
+
+It's hard to make generalizations about humans, but
+your human character has these traits.
+Ability Score Increase. Your ability scores each
+increase by I.
+Age. Humans reach adulthood in their late teens and
+live less than a century.
+AJignment. Humans tend toward no
+particular alignment. The best and the worst are
+found among them.
+Size. Humans vary widely in height and build, from
+barely 5 feet to well over 6 feet tall. Regardless of your
+position in that range. your size is Medium.
+Speed. Your base walking speed is 30 fee!.
+Languages. Vou can speak, read, and write Common
+and one extra language of your choice. Humans typically
+learn the languages of other peoples they deal with,
+including obscure dialects. They are fond of sprinkling
+their speech with words borrowed from other tongues:
+Orc curses, Elvish musical expressions, Dwarvish
+military phrases, and so on.
+
+••
+
+VARIANT
+
+HUMAN
+
+••
+
+TRAITS
+
+If your eampaign uses the optional feat rules fram ehapter 5,
+your Dungeon Master might allow these varianttraits, ali of
+whieh replaee the human's Ability Seore Inerease trai!.
+Ability Score Increase. Two different ability seores of your
+ehoiee inerease by l.
+Skills. Vou gain profieieney in one skill ofyour ehoiee.
+Feat. Vou gain one feat of your ehoiee.
+
+PART 1
+
+RACES
+
+3'
+
+For al/ her life, Farideh had known that reading her
+father'sface
+
+was a skill she'd beenfortunate
+
+to learn. A
+
+human who couldn't spot the shift of her eyes or Havilar's
+would certain(y see on(y the indifference of a dragon in
+Clanless Mehen'sface.
+
+But the shift of scales, the arch of a
+
+ridge, the set of his eyes, the gape of his teeth-her father's
+face spoke volumes.
+But every scale of it, this time, seemed complete(y stil/the indifference of a dragon, even to Farideh.
+-Erin
+
+M. Evans, TheAdversary
+
+Born of dragons, as their na me proclaims, the
+dragonborn walk proudly through a world that greets
+them with fearful incomprehension. Shaped by draconic
+gods OI' the dragons themselves, dragonborn originally
+hatched from dragon eggs as a unique race, combining
+the best attributes of dragons and humanoids. Some
+dragonborn are faithful servants to true dragons, others
+form the ranks of soldiers in great wars, and still others
+find themselves adrift, with no clear calling in life.
+
+PROUD DRAGON KIN
+
+DRAGONBORN
+HER FATHER STOOD ON THE FIRST OF THE THREE STAIRS
+
+that led dawnfrom
+
+the parta I, unmoving. The scales of his
+
+face had grown paler around the edges, but Clanless Mehen
+stil/ looked as if he could wrestle down a dire bear himseif. Hisfamiliar wel/-worn armor was gone, replaced by
+violet-tinted scale armor with bright silvery tracings. There
+was a blazon on his arm as wel/, the mark of someforeign
+house. The sword at his back was the same, though, the one
+he had carried since even before he hadfound
+in swaddling at the gates of Arush Vayem.
+
+32
+
+PART 1
+
+I RACES
+
+the twins left
+
+Dragonborn look very much like dragons standing erect
+in humanoid form, though they lack wings or atai!. The
+first dragonborn had scales of vibrant hues matching
+the colors of their dragon kin, but generations of
+interbreeding have created a more uniform appearance.
+Their small, fine scales are usually brass or bronze
+in colar, sometimes ranging to scarlet, rust, gold, ar
+copper-green. They are tall and strongly built, often
+standing close to 6'h feet tall and weighing 300 pounds
+ar more. Their hands and feet are strong, talonlike
+claws with three fingers and a thumb on each hand.
+The blood of a particular type of dragon runs
+very strong through some dragonborn clans. These
+dragonborn often boast scales that more closely match
+those of their dragon ancestor-bright
+red, green, blue,
+or white, lustrous black, ar gleaming metallic gold,
+silver, brass, copper, or bronze.
+
+UNCOMMON
+
+SELF-SUFFICIENT
+
+CLANS
+
+To any dragonborn.
+the dan is more important than
+life itself. Dragonborn
+owe their devotion and respect
+to their dan above ali e1se, even the gods. Each
+dragonborn's
+conduct reflects on the honor of his or her
+dan, and bringing dishonor to the dan can result in
+expulsion and exile. Each dragonborn
+knows his or her
+station and duties within the dan, and honor demands
+maintaining
+the bounds of that position.
+A continuaI drive for self-improvement
+reflects the
+self-sufficiency of the race as a whole. Dragonborn
+value
+skill and excellence in ali endeavors. They hate to fai!.
+and they push themselves to extreme efforts before they
+give up on something. A dragonborn
+holds mastery of
+a particular skill as a lifetime goal. Members of other
+races who share the same commitment
+find it easy to
+earn the respect of a dragonborn.
+Though ali dragonborn
+strive to be self-sufficient,
+they recognize that help is sometimes needed in difficult
+situations. But the best source for such heJp is the
+dan, and when a dan needs help. it turns to another
+dragonborn
+dan before seeking aid from other racesor even fram the gods.
+
+DRAGONBORN
+
+NAMES
+
+Dragonborn
+have personal names given at birth,
+but they put their dan names first as a mark Df
+honor. A chi!dhood na me or nickname is often used
+among dutchmates
+as a descriptive term or a term
+of endearment.
+The name might recall an event or
+center on a habit.
+
+RACES
+
+lhe dragonborn and the rest ofthe raees in this ehapter are
+uneommon. lhey don't exist in every worid of D&D, and
+even where they are found. they are less widespread than
+dwarves. elves. halAings. and humans.
+In the cosmopolitan eities ofthe D&D multiverse, most
+peopie hardly look twiee at members of even the most
+exotie raees. But the small towns and villages that dot
+the countryside are different. lhe common folk aren't
+accustomed to seeing members ofthese races, and they
+reaet accordingly.
+Dragonborn. Irs easy to assume that a dragonborn is a
+monster, especially ifhis or her scaies betray a ehromatic
+heritage. Unless the dragonborn starts breathing fire and
+causing destruction. though, peopie are likely to respond
+with eaution rather than outright fear.
+Gnome. Gnomes don't look like a threat and ean quickly
+disarm suspieion with good humor. lhe eommon folk are
+often eurious about gnomes, likely never having seen one
+before. but they are rarely hostile or fearful.
+HalfEIf. Although many people have never seen a haif-elf.
+virtually everyone knows they exist. A half.elf stranger's
+arrival is followed by gossip behind the half.elf's baek and
+stoien glanees aeross the eommon room, rather than any
+confrontation ar open curiosity.
+
+HalfOrc. Irs usually safe to assume that a half.ore is
+belligerent and quiek to anger, so peopie wateh themselves
+around an unfamiliar half-ore. Shopkeepers might
+surreptitiously hide valuable or fragile goods when a haif-ore
+comes in. and peopie slowly clear out of a tavern, assuming a
+fight will break out soon.
+riefling. Haif.ores are greeted with a praetieal caution, but
+tieAings are the subjeet of supernatural fear. lhe evil of their
+heritage is plainly visibie in their features. and as far as most
+people are eoneerned, a tieAing eould very well be a devil
+straight from the Nine Hells. People might make warding
+signs as a tieAing approaehes, eross the street to avoid
+passing near, or bar shop doors before a tieAing ean enter.
+
+Male Names: Arjhan. Balasar. Bharash, Donaar, Ghesh.
+Heskan, Kriv. Medrash. Mehen. Nadarr. Pandjed,
+Patrin, Rhogar, Shamash. Shedinn. Tarhun. Torinn
+Female Names: Akra. Biri. Daar. Farideh, Harann.
+HaviJar, Jheri, Kava, Korinn. Mishann, NaJa, Perra,
+Raiann. Sora. Surina. Thava, Uadjit
+
+33
+
+Childhood Names: Climber. Earbender. Leaper. Pious.
+Shieldbiter. Zealous
+Clan Names: Clethtinthiallor. Daardendrian. Delmirev.
+Drachedandion. Fenkenkabradon. Kepeshkmolik.
+Kerrhylon. Kimbatuul. Linxakasendalor. Myastan.
+Nemmonis. Norixius. Ophinshtalajiir. Prexijandilin.
+Shestendeliath. Turnuroth. Verthisathurgiesh. Yarjerit
+
+DRAGONBORN
+
+TRAITS
+
+ANCESTRY
+
+Dragon
+
+Damage Type
+
+Brealh Weapon
+
+Black
+Blue
+
+Acid
+Lightning
+
+Brass
+
+Fire
+Lightning
+
+5 by 30 fI. line (Dex. save)
+5 by 30 ft. line (Dex. save)
+5 by 30 ft. line (Dex. save)
+
+Bronze
+
+Copper
+Gold
+
+Acid
+Fire
+
+Green
+
+Poison
+
+Red
+
+Fire
+Cold
+
+Silver
+White
+
+Cold
+
+5 by 30 ft. line (Dex. save)
+5 by 30 fI.
+15 ft. cone
+15 ft. cone
+15 fI. cone
+
+line (Dex. save)
+(Dex. save)
+(Con. save)
+(Dex. save)
+
+15 fI. cone (Con. save)
+15 fI. cone (Con. save)
+
+••
+
+DRACONIANS
+
+In the Dragonlance selling, lhe followers of the evil goddess
+Takhisis learned a dark ritual that let them corrupt the
+eggs of metallic dragons. producing evil dragonborn called
+draconians. Five types of draconians. corresponding to the
+five types of metallic dragons, fought for Takhisis in the War
+ofthe Lance: auraks (gold). baaz (brass), bozak (bronze).
+kapak (copper). and sivak (silver). In place of their draconic
+breath weapons, they have unique magical abilities.
+
+•••
+
+Your draconic heritage manifests in a variety of traits
+you share with other dragonborn.
+Ability Score Increase. Your Strength score
+increases by 2. and your Charisma score increases by 1.
+Age. Young dragonborn grow quickly. They walk
+hours after hatching. altain the size and development
+of a IO-year-old human child by the age of 3. and reach
+adulthood by 15. They Iive to be around 80.
+AJignment. Dragonborn tend to extremes. making a
+conscious choice for one side or the other in the cosmic
+war between good and evil (represented by Bahamut
+and Tiamat. respectively). Most dragonborn are good.
+but those who side with Tiamat can be terrible villains.
+Size. Dragonborn are taller and heavier than humans.
+standing well over 6 feet tall and averaging almost 250
+pounds. Your size is Medium.
+Speed. Your base walking speed is 30 feet.
+DRACONIC
+
+•••
+
+••
+
+DraconicAncestry. Vou have draconic ancestry.
+Choose one type of dragon from the Draconic Ancestry
+table. Your breath weapon and damage resistance are
+determined by lhe dragon type. as shown in the table.
+Breath Weapon. Vou can use your action to exhale
+destructive energy. Your draconic ancestry determines
+the size, shape. and damage type of the exhalation.
+When you use your breath weapon, each creature in
+the area of the exhalation must make a saving throw.
+the type of which is determined by your draconic
+ancestry. The DC for this saving throw equals 8 +
+your Constitution modifier + your proficiency bonus. A
+creature takes 2d6 damage on a failed save. and half
+as much damage on a successful one. The damage
+increases to 3d6 at 6th levei. 4d6 at 11th leveI, and 5d6
+at 16th leveI.
+After you use your breath weapon, you can't use it
+again until you complete a short or long resl.
+Damage Resistance. Vou have resistance to the
+damage type associated with your draconic ancestry.
+Languages. Vou can speak. read, and write Common
+and Draconic. Draconic is thought to be one of the
+oldest languages and is often used in the study of magic.
+The language sounds harsh to most other creatures and
+includes numerous hard consonants and sibilants.
+
+GNOME
+SKINNY AND FLAXEN-HAIRED,
+
+HIS SKIN
+
+walnut brown and his eyes a startling
+turquoise. Burgell stood half as tall as Aeron an
+
+ad to
+
+climb up on a stool to look out the peephole. Like most habitations in Oeble. that particular tenement had been built
+for humans, and smaller residents coped with the resulting
+awkwardness as best they could.
+But at least the relative largeness ofthe apartment gave
+Burgell room to pack in ali his gnome-sized gear. Thefront
+room was his workshop. and it contained a bewildering
+miscellany of tools: hammers. chisels. saws. lockpicks,
+tinted lenses.jeweler's loupes. andjars of powdered and
+shredded ingredients for casting spells. Afat gray cat. the
+mage'sfamiliar, lay curled atop a grimoire. Tt opened its
+eyes. gave Aeron a disdainjulyellow stare. then appeared
+to go back to sleep.
+-Richard
+
+Lee Byers, The Black Bouquet
+
+A constant hum of busy activity pervades the warrens
+and neighborhoods where gnomes form their closeknit communities. Louder sounds punctuate the hum:
+a crunch of grinding gears here, a minor explosion
+there, a yelp of surprise or triumph, and especially
+bursts of laughter. Gnomes take de!ight in !ife, enjoying
+every moment of invention, exploration, investigation,
+creation, and play.
+
+VIBRANT
+
+EXPRESSION
+
+A gnome's energy and enthusiasm for living shines
+through every inch of his or her tiny body. Gnomes
+average slightly over 3 feet tall and weigh 40 to 45
+pounds. Their tan or brown faces are usually adorned
+with broad smiles (beneath their prodigious noses),
+and their bright eyes shine with excitement. Their
+
+fair hair has a tendency to stick out in every direction,
+as if expressing the gnome's insatiable interest in
+everything around.
+A gnome's persona!ity is writ large in his or ber
+appearance. A male gnome's beard, in contrast to
+his wild hair, is kept carefully trimmed but often
+styled into curious forks or neat points. A gnome's
+clothing, though usually made in modest earth tones,
+is elaborately decorated with embroidery, embossing,
+or gleaming jewels.
+
+DELIGHTED
+
+DEDICATION
+
+As far as gnomes are concerned, being a!ive is a
+wonderful thing, and they squeeze every ounce of
+enjoyment out of their three to tive centuries of !ife.
+Humans might wonder about getting bored over the
+course of such a long tife, and elves take plenty of time
+to savor the beauties of the world in their long years, but
+gnomes seem to worry that even with ali that time, they
+can't get in enough of the things they want to do and see.
+Gnomes speak as if they can't get the thoughts
+out of their heads fast enough. Even as they offer
+ideas and opinions on a range of subjects, they still
+manage to listen carefully to others, adding the
+appropriate exclamations of surprise and appreciation
+along the way.
+PART
+
+I
+
+RACES
+
+35
+
+DEEP GNOMES
+
+A third subrace of gnomes, the deep gnomes (or svirfneblin),
+live in small communities
+scattered in the Underdark. Unlike
+the duergar and the drow, svirfneblin are as good as their
+surface cousins. However, their humor and enthusiasm
+are dampened
+by their oppressive
+environment,
+and their
+inventive expertise is directed mostly toward stonework.
+
+~
+Though gnomes love jokes of ali kinds, particularly
+puns and pranks, they're just as dedicaled lo lhe more
+serious tasks they undertake, Many gnomes are skilled
+engineers, alchemists, tinkers, and inventors, They're
+willing to make mistakes and laugh at themselves in
+lhe process of perfecting what they do, taking bold
+(sometimes foolhardy) risks and dreaming large,
+
+BRIGHT BURROWS
+Gnomes make their homes in hilly, wooded lands. They
+live underground but get more fresh air than dwarves
+do, enjoying the natural, living world on the surface
+whenever lhey can, Their homes are well hidden by
+bolh elever conslruclion and simple illusions, Welcome
+visitors are quickly ushered inlo lhe bright, warm
+burrows, Those who are not welcome are unlikely to
+find the burrows in lhe first place,
+Gnomes who setlle in human lands are commonly
+gemcutlers, engineers, sages, or tinkers. Some human
+families relain gnome lutors, ensuring lhat their pupils
+enjoy a mix of serious learning and delighted enjoyment.
+A gnome mighl tutor severa I generalions of a single
+human family over the course of his or her long life.
+
+~
+
+Male Names: Alston, Alvyn, Boddynock, Brocc, Burgell,
+Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble,
+Glim,Jebeddo, Kellen, Namfoodle, Orryn, Roondar,
+Seebo, Sindri, Warryn, Wrenn, Zook
+Female Names: Bimpnollin, Breena, Caramip, Carlin,
+Donella, Duvamil, ElIa, ElIyjobell, ElIywick, Lilli,
+Loopmottin, Lorilla, Mardnab, Nissa, Nyx, Oda, Orla,
+Roywyn, Shamil, Tana, Waywocket, Zanna
+Clan Names: Beren, Daergel, Folkor, Garrick, Nackle,
+Murnig, Ningel, Raulnor, Scheppen, Timbers, Turen
+Nicknames: Aleslosh, Ashhearlh, Badger, Cloak,
+Doublelock, Filchbatler, Fnipper, Ku, Nim, Oneshoe,
+Pock, Sparklegem, Stumbleduck
+
+SEEING THE WORLD
+Curious and impulsive, gnomes might take up
+adventuring as a way to see the world ar for lhe lave
+of exploring. As lovers of gems and other fine ilems,
+some gnomes take to adventuring as a quick, if
+dangerous, path to wealth. Regardless of what spurs
+them lo adventure, gnomes who adopt this way of life
+eke as much enjoymenl out of it as they do oul of any
+other activity they undertake, sometimes to lhe great
+annoyance of lheir adventuring companions.
+
+GNOME NAMES
+Gnomes love names, and most have half a dozen or so.
+A gnome's mother, falher, elan elder, aunts, and uneles
+each give the gnome a name, and various nicknames
+from juSl about everyone else might or might not stick
+over time. Gnome names are typically variants on the
+names of ancestors or distant relalives, lhough some
+are purely new inventions. When dealing with humans
+and others who are "stuffy" aboul names, a gnome
+learns to use no more than three names: a personal
+name, a elan na me, and a nickname, choosing lhe one in
+each calegory that's the most fun to say.
+
+PART
+
+I
+
+I
+
+RACES
+
+GNOME TRAITS
+Your gnome character has certain characteristics in
+common with ali other gnomes.
+Ability Scare lncrease. Your Intelligence score
+increases by 2.
+Age. Gnomes mature at lhe same rate humans do, and
+most are expected to settle down into an adult life by
+around age 40. They can live 350 to almosl 500 years.
+Alignment. Gnomes are most oflen good. Those who
+lend toward law are sages, engineers, researchers,
+scholars, invesligators, ar inventors. Those who lend
+toward chaos are minslrels, lrickslers, wanderers,
+ar fandful jewelers. Gnomes are good-hearted, and
+
+, UI
+
+4
+ALWAYS
+
+•
+ApPRECIATIVE
+
+It's rare for a gnome to be hostile ar malicious unless he
+ar she has suffered a grievous injury. Gnomes know that
+most races don't share their sense of humor, but they enjoy
+anyone's company just as they enjoy everything else they set
+out to do.
+
+~
+
+~
+
+even the tricksters among them are more playful
+than vicious.
+Size. Gnomes are between 3 and 4 feet tall and
+average about 40 pounds. Your size is Small.
+Speed. Your base walking speed is 25 feel.
+Darkvision. Accustomed to life underground, you have
+superior vision in dark and dim conditions. Vou can
+see in dim light within 60 feet of you as if it were bright
+light, and in darkness as if it were dim lighl. Vou can't
+discern colar in darkness, only shades of gray.
+Gnome Cunning. Vou have advantage on ali
+Intelligence, Wisdom, and Charisma saving throws
+against magic.
+Languages. Vou can speak, read, and write Common
+and Gnomish. The Gnomish language, which uses the
+Owarvish script, is renowned for its technical treatises
+and its catalogs of knowledge about the natural world.
+Subrace. Two subraces of gnomes are found among
+the worlds of 0&0: forest gnomes and rock gnomes.
+Choose one of these subraces.
+FOREST GNOME
+
+As a forest gnome, you have a natural knack for iIlusion
+and inherent quickness and stealth. In the worlds of
+0&0, forest gnomes are rare and secretive. They gather
+in hidden communities in sylvan forests, using iIlusions
+and trickery to conceal themselves from threats ar
+to mask their escape should they be detected. Forest
+gnomes tend to be friendly with other good-spirited
+woodland folk, and they regard elves and good feyas
+their most important allies. These gnomes also befriend
+small forest animais and rely on them for information
+about threats that might prowl their lands.
+Ability Score Increase. Your Oexterity score
+increases by 1.
+Natural I1lusionist. Vou know the minor illusion
+cantrip. lntelligence is your spellcasting ability for il.
+Speak with Small Beasts. Through sounds and
+gestures, you can communicate simple ideas with Small
+ar smaller beasts. Forest gnomes love animaIs and often
+keep squirrels, badgers, rabbits, moles, woodpeckers,
+and other creatures as beloved pets.
+ROCK GNOME
+
+As a rock gnome, you have a natural inventiveness and
+hardiness beyond that of other gnomes. Most gnomes
+in the worlds of 0&0 are rock gnomes, including the
+tinker gnomes of the Oragonlance setting.
+
+AbiJity Score Increase. Your Constitution score
+increases by 1.
+Artificer's Lore. Whenever you make an Intelligence
+(History) check related to magic items, alchemical
+objects, ar technological devices, you can add twice your
+proficiency bonus, instead of any proficiency bonus you
+normallyappIy.
+Tinker. Vou have proficiency with artisan's toois
+(tinker's tools). Using those tools, you can spend 1
+hour and 10 gp worth of materiaIs to construct a Tiny
+c1ockwork device (AC 5, 1 hp). The device ceases
+to function after 24 hours (unless you spend 1 hour
+repairing it to keep the device functioning), ar when
+you use your action to dismantle it; at that time, you can
+reclaim the materiaIs used to create il. Vou can have up
+to three such devices active at a time.
+When you create a device, choose one of the
+following options:
+Clockwork Toy. This toy is a c1ockwork animal, monster,
+ar person, such as a frog, mouse, bird, dragon, ar
+soldier. When placed on the grou nd, the toy moves
+5 feet across the ground on each of your turns in a
+random direction. lt makes noises as appropriate
+to the creature it represents.
+Fire Starter. The device produces a miniature
+flame, which you can use to light a candle,
+torch, ar campfire. Using the device
+requires your action.
+Music Sox. When opened, this music box
+plays a single song at a moderate volume.
+The box stops playing when it
+reaches the song's end ar
+when it is c1osed.
+
+"Tanis?" said Flint hesitant/y as the man neared.
+"The same." The newcomer's beardedface split in a wide
+grin. He held open his arms and, before the dwarf could
+stop him, engulfed Flint in a hug that lifted him off the
+ground. The dwarf clasped his oldfriend closefor a brief
+instant, then, rememberinghis digni(y, squirmed andfreed
+himself from lhe half-elf's embrace.
+-Margaret
+
+Weis and Tracy Hickman,
+Dragons of Autumn Twilight
+
+HALF-ELF
+FUNT
+
+SQUINTED
+
+INTO THE SETTING
+
+SUN. HE THOUGHT
+
+he saw theftgure of a man striding up the path. 5tanding,
+
+Walking in two worlds but truly belonging to neither,
+half-elves combine what some say are the best qualities
+of their elf and human parents: human curiosity,
+inventiveness, and ambition tempered by the refined
+senses, love of nature, and artistic tastes of the elves.
+Some half-elves Iive among humans, set apart by their
+emotional and physical differences, watching friends
+and loved ones age while time barely touches them.
+Others Iive with the elves, growing restless as they
+reach adulthood in the timeless elven realms, while
+their peers continue to Iive as children. Many half-elves,
+unable to fit into either society, choose Iives of solitary
+wandering or join with other misfits and outcasts in
+the adventuring life.
+
+Flint drew back into the shadow of a tall pine to see better.
+The man's walk was marked by an easy grace-an eluish
+grace, Flint would haue said;yet the man's body had lhe
+thickness and tight muscles of a human, while thefacial
+hair was deftnite/y humankind's. Ali the dwarf could see
+of the man'sface beneath a green hood was tan skin and a
+brownish-red beard. A longbow was slung ouer one shoulder
+and a sword hung at his left side. He was dressed in soft
+leather, careful/y tooled in the intricate designs the elues
+loued. But no elfin the world of Krynn could grow a beard
+... no elf, but ...
+
+PA RT 1
+
+I
+
+RACES
+
+OF Two WORLDS
+To humans, half-elves look Iike elves, and to elves, they
+look humano In height, they're on par with both parents,
+though they're neither as slender as elves nor as broad
+as humans. They range fram under 5 feet to about 6 feet
+ta lI, and from 100 to 180 pounds, with men only slightly
+talIer and heavier than women. Half-elf men do have
+facial hair, and sometimes grow beards to mask their
+elven ancestry. Half-elven coloration and features lie
+somewhere between their human and elf parents, and
+thus sh'ow a variety even more pronounced than that
+found among either race. They tend to have the eyes
+of their elven parents.
+
+EXCELLENT
+
+AM BASSADORS
+
+Many half.elves leam at an early age to get along with
+everyone, defusing hostility and finding common ground.
+As a race, they have elven grace wilhoul elven aloofness and
+human energy wilhout human boorishness. They oflen make
+excellenl ambassadors and go.belweens (excepl between
+elves and humans, since each side suspecls lhe half.elf
+offavoring lhe olher).
+
+DIPLOMATS
+
+OR WANDERERS
+
+Half-elves have no lands of their own, though they are
+welcome in human cities and somewhat less welcome
+in elven forests. In large cities in regions where elves
+and humans interact often, half-elves are sometimes
+numerous enough to form small communities of their
+own. They enjoy the company of other half-elves, the
+onIy people who truIy understand what it is to live
+between these two worlds.
+In most parts of the world. though, haIf-eIves are
+uncommon enough that one might live for years
+without meeting another. Some half-elves prefer to
+avoid company altogether, wandering the wilds as
+trappers, foresters, hunters, or adventurers and visiting
+civilization onIy rarely. Like elves, they are driven by
+the wanderIust that comes of their longevity. Others,
+in contrast, throw themselves into the thick of society,
+putting their charisma and social skilIs to great use
+in diplomatic roles or as swindlers.
+
+crealive expression, demonstrating neither love
+of Jeaders nor desire for followers. They chafe at
+rules, resenl others' demands, and sometimes prove
+unreliable, or at least unpredictable.
+Size. HaIf-eIves are about the same size as humans,
+ranging from 5 to 6 feet taIl. Vour size is Medium.
+Speed. Vour base walking speed is 30 feel.
+Darkvision. Thanks to your elfblood, you have
+superior vision in dark and dim conditions. Vou can
+see in dim light within 60 feet of you as if it were bright
+light, and in darkness as if it were dim lighl. Vou can't
+discern color in darkness, only shades of gray.
+Fey Ancestry. Vou have advantage on saving throws
+against being charmed, and magic can't put you to sleep.
+Skill VersatiJity. Vou gain proficiency in two skilIs
+of your choice.
+Languages. Vou can speak, read, and write Common,
+EIvish, and one extra language of your choice,
+
+HALF- ELF NAMES
+Half-elves use either human or elven naming
+conventions. As if to emphasize that they don't really fit
+in to either society, half-elves raised among humans are
+often given elven names, and those raised among elves
+often take human names.
+
+HALF- ELF TRAITS
+Vour half-elf character has some qualities in common
+with elves and some that are unique to half-elves.
+AbiJity Score Increase. Vour Charisma score
+increases by 2, and two other ability scores of your
+choice increase by I.
+Age. Half-elves mature at the same rate humans
+do and reach adulthood around the age of 20. They
+live much longer than humans, however, often
+exceeding 180 years.
+AJignment. Half-elves share the chaotic bent of their
+elven heritage. They value both personal freedom and
+PART 1
+
+RACES
+
+39
+
+Whether united under the leadership of a mighty
+warloek OI' having fought to a standstill after years
+of eonfliet, ore and human tribes sometimes form
+allianees, joining forces into a larger horde lo lhe terror
+of eivilized lands nearby. When lhese allianees are
+sealed by marriages, half-ores are bom. Some half-ores
+rise lo beeome proud ehiefs of ore lribes, lheir human
+blood giving them an edge over lheir full-blooded ore
+rivaIs. Some venture inlo lhe world lo prove lheir worlh
+among humans and other more civilized raees. Many of
+lhese beeome advenlurers, aehieving grealness for lheir
+mighly deeds and nOloriely for their barbarie eustoms
+and savage fury.
+
+SCARRED AND STRONG
+THE WARCHIEF MHURREN
+
+ROUSED HIMSELF FROM HIS
+
+sleeping-furs and his women and pulled a short hauberk
+of heauy steel rings ouer his thick. well-muscled torso. He
+usual{y rose before most of his warriors. since he had a
+strong streak of human blood in him. and hefound the
+daylight less bothersome than most of his tribe did. Among
+the Bloody Skulls. a warrior was judged by his strength. his
+jlerceness. and his wits. Human ancestry was no blemish
+against a warrior-prauided he was euery bit as strang.
+enduring. and bloodthirsty as hisfull-blooded kin. Halforcs who were weaker than their orc comrades didn't last
+long among the Bloody Skulls
+that matter. Rut
+
+it
+
+OI'
+
+any other orc tribefor
+
+was often true that a bit of human blood
+
+gave a warrior just the right mix of cunning. ambition, and
+self-discipline to go far indeed. as Mhurren had. He was
+master of a tribe that could muster two thousand spears.
+and the strangest chiefin TlJar.
+-Richard
+
+4-0
+
+PART
+
+I
+
+I
+
+RACES
+
+Baker. Swordmage
+
+Half-ores' grayish pigmenlation, sloping foreheads,
+juttingjaws, prominenl leelh, and lowering builds make
+their orcish herilage plain for ali lo see. Half-ores sland
+belween 6 and 7 feel lall and usually weigh belween
+180 and 250 pounds.
+Ores regard battle sears as lokens of pride and
+ornamenlal sears as lhings of beauly. OlheI' sears,
+though, mark an ore 01' half-ore as a formeI' slave 01'
+a disgraeed exile. Any half-ore who has lived among
+01' near ores has sears, whelher lhey are marks of
+humilialion 01' of pride, reeounling their pasl exploils
+and injuries. Sueh a half-ore living among humans might
+display lhese sears proudly 01' hide them in shame.
+
+THE MARK OF GRUUMSH
+The one-eyed god Gruumsh erealed lhe ores, and even
+those ores who turn away from his worship ean'l fully
+escape his influenee. The same is lrue of haIf-ores.
+lhough lheir human blood moderales lhe impaet of lheir
+orcish heritage. Some half-ores hear the whispers of
+Gruumsh in lheir dreams, ealling lhem lo unleash lhe
+rage tha! simmers wilhin lhem. Others feel Gruumsh's
+
+GRUDGING
+
+exultation when they join in melee eombat-and either
+exult along with him or shiver with fear and loathing.
+Half-ores are not evil by nature, but evil does lurk within
+them, whether they embraee it or rebel against it.
+Beyond the rage of Gruumsh, half-ores feel emotion
+powerfully. Rage doesn't jusl quieken their pulse, it
+makes their bodies burn. An insult stings tike acid,
+and sadness saps their strength. But they laugh loudly
+and heartily, and simple bodily pleasures-feasting,
+drinking, wrestling, drumming, and wild dancing-fill
+their hearls with joy. They tend to be short-tempered
+and sometimes sullen, more inclined to aelion than
+eontemplation and to fighting than arguing. The mosl
+aeeomplished half-ores are lhose with enough self.
+eontrol to get by in a civilized land.
+
+TRIBES AND SLUMS
+Half-ores most often live among ores. Of the other raees,
+humans are most tikely to aeeept half.ores, and half.
+ores almost always live in human lands when not living
+among ore lribes. Whether proving themselves among
+rough barbarian tribes or serabbling to survive in the
+slums of larger cities, half-ores gel by on their physieal
+might, their enduranee, and lhe sheer determinalion
+lhey inheril from lheir human aneeslry.
+
+HALF-ORC
+
+NAMES
+
+Half-ores usually have names appropriate lo the eullure
+in whieh they were raised. A half-ore who wanls lo fit in
+among humans mighl trade an ore name for a human
+name. Some half-ores wilh human names decide to
+adopt a guttural ore na me beeause they lhink it makes
+lhem more intimidating.
+Male Ore Names: Deneh, Feng, Gell, Henk, Holg, Imsh,
+Kelh, Krusk, Mhurren, Ront. Shump. Thokk
+Female Ore Names: Baggi, Emen, Engong. Kansif.
+Myev. Neega. Ovak, Ownka, Shaulha, Sulha. Vola,
+Volen, Yevelda
+
+HALF-ORC
+
+TRAITS
+
+Your half-ore eharaeter has eertain traits deriving from
+your ore aneestry.
+
+ACCEPTANCE
+
+Eaeh half.ore finds a way to gain aeeeptanee
+from those who
+hate ores. Some are reserved, trying not to draw atlention to
+themselves.
+A few demonstrate
+piety and good.heartedness
+as publicly as they ean (whether ar not sueh demonstrations
+are genuine). And some simply try to be so tough that others
+just avoid them.
+
+••
+Abi/ity Score lncrease. Your Strength seore
+inereases by 2, and your Constitution score
+inereases by I.
+Age. Half-ores mature a tittle faster than humans,
+reaehing adulthood around age 14. They age
+notieeably faster and rarely tive longer than 75 years.
+Alignment. Half-ores inherit a tendeney toward ehaos
+from their ore parents and are not strongly inclincd
+toward good. Half-ores raised among ores and willillg
+to tive out their tives among them are usually evil.
+Size. Half-ores are somewhat largcr and bulkier than
+humans, and they range from 5 to well over ti feet tall.
+Your size is Medium.
+Speed. Your base walking speed is 30 feet.
+Darkvision. Thanks to your ore blood. you have
+superior vision in dark and dim eOllditions. Vou ean
+see in dim tight within 60 feet of you as if it were bright
+tight. and in darkness as if it were dim light. You ean't
+diseern eolor in darkness, only shades of gray.
+Menacing. You gain proficieney in the
+Intimidation skill.
+Relentless Endurance. When you are reduced to
+O hit points but not killed outright. you can drop to I hit
+point instead. Vou can't use this feature again unti! you
+finish a long resto
+Savage Attacks. When you score a criticaI hit with
+a melee weapon attack, you can roll one of thc wcapon's
+damage dice one additional time and add it lo lhe extra
+damage of lhe criticaI hit.
+Languages. You can speak. read, and
+write Common and Ore. Ore is a
+harsh. grating language with
+hard consonants. It has
+no script of its own
+but is written in the
+Dwarvish script.
+
+that wicked glint in his eyes. "Youfight It, don'tyou? Like
+a little wildcat, I wager. Every littlejab and commentjust
+sharpensyour
+
+c1aws."
+-Erin
+
+M. Evans, Brimstone Angels
+
+To be greeted with stares and whispers, to suffer
+violence and insult on the street, to see mistrust and
+fear in every eye: this is the lot of the tiefling. And to
+twist the knife, tieflings know that this is because a
+pact struck generations ago infused the essence of
+Asmodeus-overlord of the Nine Hells-into their
+bloodline. Their appearance and their nature are not
+their fault but the result of an ancient sin, for which
+they and their children and their children's children
+will always be held accountable.
+
+INFERNAL BLOODLINE
+
+TIEFLING
+"BUT
+
+VOU DO SEE THE WAY PEOPLE LOOK AT VOU,
+
+devil's child."
+
+Those block eyes, cold as a winter storm, were staring
+right into her heart and the sudden seriousness in his
+voice jolted her.
+"What is it they say?" he asked. "One's a curiosity, two's
+a conspiracy-"
+"Three's a curse," shefinished. "You think I haven't heard
+that rubbish before?"
+"I knowyou have." When sheglared at him, he added,
+"[t's not as if l'm plumbing the depths ofyour mind, dear
+girl. That is the burden of every tiefling. Some break under
+it, some make it the millstone around their neck, some
+revel in it." He tilted his head again, scrutinizingher,
+
+42
+
+PART 1
+
+I
+
+RACES
+
+with
+
+Tieflings are derived fram human bloodlines, and in the
+broadest possible sense, they stilllook humano However,
+their infernal heritage has left a elear imprint on their
+appearance. Tieflings have large horns that take any
+of a variety of shapes: some have curling horns like a
+ram, others have straight and tall horns like a gazelle's,
+and some spiral upward like an antelopes' horns. They
+have thick tails, four to tive feet long, which lash or coil
+around their legs when they get upset or nervous. Their
+canine teeth are sharply pointed, and their eyes are
+solid colors-black, red, white, silver, or gold-with no
+visible selera or pupil. Their skin tones cover the full
+range of human coloration, but also inelude various
+shades of red. Their hair, cascading down from behind
+their horns, is usually dark, from black or brown to dark
+red, blue, or purple.
+
+SELF- RELIANT
+
+AND SUSPICIOUS
+
+Tieflings subsist in small minorities found mostly in
+human cities or towns, often in the roughest quarters
+of those places, where they grow up to be swindlers,
+
+MUTUAL
+
+thieves, or crime lords, Sometimes they live among
+other minority populations in enclaves where they are
+treated with more respect.
+Lacking a homeland, tieftings know that they have
+to make their own way in the world and that they have
+to be strong to survive, They are not quick to trust
+anyone who claims to be a friend. but when a tiefling's
+companions demonstrate that they trust him or her,
+the tiefting learns to extend the same trust to them,
+And once a tiefting gives someone loyalty, the tiefting
+is a firm friend or ally for life,
+TIEFLING
+
+NAMES
+
+Tiefting names fali into three broad categories. Tieftings
+born into another culture typically have names reftective
+of that culture. Some have names derived from the
+Infernallanguage, passed down through generations,
+that reftect their fiendish heritage. And some younger
+tieftings. striving to find a place in the world, adopt a
+na me that signifies a virtue or other concept and then
+try to embody that concept. For some. the chosen na me
+is a noble quest. For others. it's a grim destiny.
+Male Infernal Names: Akmenos, Amnon, Barakas,
+Damakos, Ekemon, lados, Kairon. Leucis, Melech.
+Mordai, Morthos. Pelaios, Skamos. Therai
+Female Infernal Names: Akta, Anakis, Bryseis, Criella.
+Damaia. Ea. Kallista. Lerissa. Makaria. Nemeia,
+Orianna. Phelaia. Rieta
+"Virtue" Names: Art. Carrion, Chant, Creed, Despair,
+Excellence, Fear, Glory, Hope, Ideal. Music. Nowhere.
+Open, Poetry, Quest. Random. Reverence, Sorrow.
+Temerily, Torment, Weary
+
+MISTRUST
+
+Peopletend to be suspicious of tieflings. assuming that
+their infernalheritage has left its mark on their personality
+and morality.not just their appearance. Shopkeepers keep
+a close eye on their goods when lieflingsenler lheir stores.
+the lown walch mighl followa lieflingaround for a while.
+and demagogues blame lieflings for slrange happenings.
+The realily.lhough. is lhal a liefling's bloodlinedoesn'l affecl
+his or her personalilylo any greal degree. Yearsof dealing
+wilh mislrusl does leaveils mark on mosllieflings. and lhey
+respond lo il in differenlways.Some choose lo Iiveup lo lhe
+wickedslereolype. bul olhers are virluous. Mosl are simply
+veryaware ofhow people respond lo lhem. Aflerdealing wilh
+lhis mislrusllhroughoul youlh. a lieflingoflen develops lhe
+abililylo overcome prejudicelhrough charm or inlimidalion.
+
+~
+TIEFLING
+
+~
+TRAITS
+
+Tieflings share cerlain racial traits as a result of their
+infernal descent.
+AbiJity Seore Inerease. Your lntelligence score
+increases by 1, and your Charisma score increases by 2.
+Age. Tieflings mature at the same rate as humans but
+live a few years longer.
+Alignment. Tieftings might not have an innate
+tendency toward evil. but many of them end up there.
+Evil or noto an independent nature inclines many
+tieflings toward a chaotic alignment.
+Size. Tieftings are about the same size and build as
+humans. Your size is Medium.
+Speed. Your base walking speed is 30 feet.
+Darkvision. Thanks lOyour infernal heritage, you
+have superior vision in dark and dim conditions. You
+can see in dim Iight within 60 feet of you as if it were
+bright 1ight. and in darkness as if it were dim light. You
+can't discern color in darkness. only shades of gray.
+Hellish Resistance. You have resistance
+to fire damage.
+Infernal Legaey. You know the thaumatuqJy cantrip.
+Once you reach 3rd levei, you can cast the hellish
+rebuke spell once per day as a 2nd-levei spell. Once you
+reach 5th levei, you can also cast the darkness spell
+once per day. Charisma is your spellcasting ability for
+these spclls.
+Languages. You can speak. read. and write Common
+and Infernal.
+
+

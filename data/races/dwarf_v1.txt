@@ -8,8 +8,94 @@ Gods, Gold, and Clan
 ### end 'Description' here ###
 
 ### begin 'Names' here ###
+A dwarf's na me is granted by a c1an elder, in accordance
+with tradition, Every proper dwarven na me has been
+used and reused down through the generations, A
+dwarf's name belongs to the c1an, not to the individual.
+A dwarf who misuses or brings shame to a c1an name
+is stripped of the na me and forbidden by law to use any
+dwarven name in its place,
+Male Names: Adrik, Alberich, Baern, Barendd, Brottor,
+Bruenor, Oain, Oarrak, Oelg, Eberk, Einkil, Fargrim,
+Flint, Gardain, Harbek, Kildrak, Morgran, Orsik,
+Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin,
+Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
+Female Names: Amber, Artin, Audhild, Bardryn,
+Oagnal, Oiesa, Eldeth, Falkrunn, Finellen, Gunnloda,
+Gurdis, Helja, Hlin, Kathra, Kristryd, lide, Liftrasa,
+Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
+Clan Names: Balderk, Battlehammer, Brawnanvil,
+Oankil, Fireforge, Frostbeard, Gorunn, Holderhek,
+Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln,
+Torunn, Ungart
 ### end 'Names' here ###
+
 ### begin 'Traits' here ###
+Your dwarf character has an assortment of inborn
+abilities, part and parcel of dwarven nature.
+Ability Seore Inerease. Your Constitution score increases by 2.
+Age. Dwarves mature at the same rate as humans, but
+they're considered young until they reach the age of 50,
+On average, they live about 350 years.
+Alignment. Most dwarves are lawful, believing firmly
+in the benefits of a well-ordered society. They tend
+toward good as well, with a strong sense of fair play and
+a belief that everyone deserves to share in the benefits of
+a just order.
+Size. Owarves stand between 4 and 5 feet tall and
+average about 150 pounds. Your size is Medium.
+Speed. Your base walking speed is 25 feel. Your
+speed is not reduced by wearing heavy armor.
+Darkvision. Accustomed to life underground, you
+have superior vision in dark and dim conditions. Vou
+can see in dim light within 60 feet of you as if it were
+bright light, and in darkness as if it were dim lighl. Vou
+can't discern color in darkness, only shades of gray.
+Dwarven Resilienee. Vou have advantage on saving
+throws against poison, and you have resistance against
+poison damage (explained in chapter 9).
+Dwarven Combat Training. Vou have proficiency
+with the battleaxe, handaxe, throwing hammer,
+and warhammer.
+TooJProficieney. Vou gain proficiency with the
+artisan's tools of your choice: smith's tooIs, brewer's
+supplies, or mason's tools.
+Stoneeunning. Whenever you make an Intelligence
+(History) check related to the origin of stonework, you
+are considered proficient in the History skill and add
+double your proficiency bonus to the check, instead of
+your normal proficiency bonus.
+Languages. Vou can speak, read, and write Common
+and Owarvish. Owarvish is full of hard consonants and
+guttural sounds, and those characteristics spill over into
+whatever other language a dwarf might speak.
+Subraee. Two main subraces of dwarves populate the
+worlds of 0&0: hill dwarves and mountain dwarves.
+Choose one of these subraces.
 ### end 'Traits' here ###
+
 ### begin 'Subraces' here ###
+HILL DWARF
+As a hill dwarf, you have keen senses, deep intuition,
+and remarkable resilience. The gold dwarves of Faenln
+in their mighty southern kingdom are hill dwarves, as
+are the exiled Neidar and the debased Klar of Krynn in
+the Oragonlance setting.
+Ability Seore Inerease. Your Wisdom score
+increases by 1.
+Dwarven Toughness. Your hit point maximum
+increases by 1, and it increases by 1 every time you
+gain a leveI.
+MOUNTAIN
+DWARF
+As a mountain dwarf, you're strong and hardy,
+accustomed to a difficult life in rugged terrain. You're
+probably on the tall side (for a dwarf), and tend toward
+lighter coloration, The shield dwarves of northern
+Faerun, as well as the ruling Hylar c1an and the noble
+Oaewar c1an of Oragonlance, are mountain dwarves.
+Ability Seore Inerease. Your Strength score
+increases by 2.
+Dwarven Armor Training. Vou have proficiency with
+light and medium armor.
 ### end 'Subraces' here ###
