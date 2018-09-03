@@ -1,0 +1,64 @@
+
+.container {
+    display: grid;
+    max-width: 1920px;
+    position: relative;
+    margin: auto;
+    grid-gap: 1px;
+    grid-template-areas:
+            "header header header"
+            "nav nav nav"
+            "left middle right"
+            "footer footer footer";
+    grid-template-columns: 1fr 8fr 1fr;
+    grid-template-rows: 150px 100px auto 50px;
+}
+
+h1, h2 {
+    font-family: monospace;
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+    font-family: serif;
+}
+
+#MadeBy{
+    font-family: monospace;
+    text-align: center;
+
+}
+
+header {
+    background-image: url("./graphics/dndpy_logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: gray;
+    grid-area: header;
+}
+
+footer {
+    background-color: lightgray;
+    grid-area: footer;
+}
+
+nav {
+    background-color: lightgray;
+    grid-area: nav;
+}
+
+.left {
+    background-color: gray;
+    grid-area: left;
+}
+
+.middle {
+    background-color: lightgray;
+    grid-area: middle;
+}
+
+.right {
+    background-color: gray;
+    grid-area: right;
+}
