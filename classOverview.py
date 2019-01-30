@@ -4,7 +4,7 @@ class Classes(object):
 
     def __init__(self):
         # hear ye classes
+        pass
 
-
-    def Sorcerer(self):
-        
+    def sorcerer(self):
+        pass
