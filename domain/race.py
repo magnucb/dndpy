@@ -19,7 +19,10 @@ class Human(Race):
         super(Human, self).__init__()
 
     def levelup(self):
-        pass
+        super(Human, self).levelup()
+
+    def __str__(self):
+        return 'Human'
 
 
 class Dwarf(Race):
@@ -27,4 +30,7 @@ class Dwarf(Race):
         super(Dwarf, self).__init__()
 
     def levelup(self):
-        pass
+        super(Dwarf, self).levelup()
+
+    def __str__(self):
+        return 'Dwarf'

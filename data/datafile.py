@@ -2,6 +2,7 @@
 This file holds classes for handling DnD-datafiles.
 """
 
+
 class DataFile(object):
     """
     Instance of this class opens a file, reads content as single string,
@@ -12,7 +13,7 @@ class DataFile(object):
         self.filename = filename
         self.content = self.read_file()
 
-    def read_file(self, filename):
+    def read_file(self):
         """Return data from self.filename as string"""
         with open(self.filename, 'r') as infile:
             content_string = infile.read()

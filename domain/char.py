@@ -1,4 +1,4 @@
-import lookup
+from domain import lookup
 
 
 class Character(object):
