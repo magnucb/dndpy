@@ -3,3 +3,4 @@ charscreen.sublime-workspace
 *.pdf
 .idea/
 .5ehandbook
+venv/
