@@ -1,37 +1,47 @@
 """
 This is the class where we generate the characters
 """
-from domain.lookup import RaceLookup, ProfessionLookup
+from domain import lookup
+from domain.char import Character
 
 
 class CharacterChoice(object):
+    """Start a character
+
+     Start a character and choose everything to get started playing a level 1
+     character.
+     """
     def __init__(self):
         self.finished = False
-        self.race = None
-        self.profession = None
+        self.character = Character()
 
     def select_race(self):
-        races = RaceLookup()
+        races = lookup.RaceLookup()
         print("Choose your race. Your choices are {}".format(
             races.races))
-        self.race = input("Choose a race: ")
+        self.character.set_race(input("Choose a race: "))
 
     def select_profession(self):
-        professions = ProfessionLookup()
+        professions = lookup.ProfessionLookup()
         print("Time to to choose a class. Your choices are {}".format(
             professions.professions))
-        self.profession = input("Choose a class: ")
+        self.character.set_profession(input("Choose a class: "))
+
+    def select_spell(self):
+        spells = lookup.SpellLookup()
+        print("Choose spells. Your choices are {}".format(spells.spells))
+        choice = input("Choose a spell: ")
+        self.character.add_spell(spells.spells.get(choice))
+
+    def select_feature(self):
+        features = lookup.FeatureLookup()
+        print("Chooce features. Your choices are {}".format(features.features))
+        choice = input("Choose a feature: ")
+        self.character.add_feature(features.features.get(choice))
 
 
 def main():
-    character = CharacterChoice()
-    while not character.finished:
-        if not character.race:
-            character.select_race()
-        if not character.profession:
-            character.select_profession()
-        else:
-            character.finished = True
+    CharacterChoice()
 
 
 if __name__ == '__main__':
