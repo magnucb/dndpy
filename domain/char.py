@@ -1,28 +1,19 @@
+"""
+This is the class where we make the character object.
+"""
+
+
 class Character(object):
-    """
-
-    """
-    def __init__(self):
-        """
-
-        """
-        self._race = None
-        self._profession = None
-        self._background = None
+    def __init__(self, stats):
+        self._race = stats['race']
+        self._profession = stats['profession']
+        self._background = stats['background']
         self._alive = True
         self.level = 1
-        self.equipment = {
-
-        }
-        self.features = {
-
-        }
-        self.spells = {
-
-        }
-        self.items = {
-
-        }
+        self.equipment = stats['equipment']
+        self.features = stats['features']
+        self.spells = stats['spells']
+        self.items = stats['items']
 
     # Kill/Resurrect
     def kill(self):
@@ -31,37 +22,6 @@ class Character(object):
     def resurrect(self):
         self._alive = True
 
-    # Race
-    def get_race(self):
-        return self._race
-
-    def set_race(self, race):
-        self._race = race
-
-    # Profession(Class)
-    def get_profession(self):
-        return self._profession
-
-    def set_profession(self, profession):
-        self._profession = profession
-
-    # Background
-    def get_background(self):
-        return self._background
-
-    def set_background(self, background):
-        self._background = background
-
-    # Equipment
-    def get_equipment(self):
-        return self.equipment
-
-    def del_equipment(self):
-        self.equipment = {}
-
-    def add_equipment(self, equipment):
-        self.equipment.update(equipment)
-
     # Level up and down
     def level_up(self, level):
         self.level += level
@@ -69,39 +29,85 @@ class Character(object):
     def level_down(self, level):
         self.level -= level
 
+    # Race
+    @property
+    def race(self):
+        return self._race
+
+    @race.setter
+    def race(self, race):
+        self._race = race
+
+    @race.deleter
+    def race(self):
+        self._race = None
+
+    # Profession(Class)
+    @property
+    def profession(self):
+        return self._profession
+
+    @profession.setter
+    def profession(self, profession):
+        self._profession = profession
+
+    # Background
+    @property
+    def background(self):
+        return self._background
+
+    @background.setter
+    def background(self, background):
+        self._background = background
+
+    # Equipment
+    @property
+    def equipment(self):
+        return self.equipment
+
+    @equipment.setter
+    def equipment(self, equipment):
+        self.equipment = equipment
+
+    @equipment.deleter
+    def equipment(self):
+        del self.equipment
+
     # Features
-    def get_features(self):
+    @property
+    def features(self):
         return self.features
 
-    def add_feature(self, feature):
-        self.features.update(feature)
+    @features.setter
+    def features(self, feature):
+        self.features = feature
+
+    @features.deleter
+    def features(self):
+        del self.features
 
     # Spells
-    def get_spells(self):
+    @property
+    def spells(self):
         return self.spells
 
-    def add_spell(self, spell):
-        self.spells.update(spell)
+    @spells.setter
+    def spells(self, spell):
+        self.spells = spell
 
-    def del_spell(self, item):
-        try:
-            del self.spells[item]
-        except KeyError:
-            return False
-        else:
-            return True
+    @spells.deleter
+    def spells(self):
+        del self.spells
 
     # Items
-    def get_items(self):
+    @property
+    def items(self):
         return self.items
 
-    def add_item(self, item):
-        self.items.update(item)
+    @items.setter
+    def items(self, item):
+        self.items = item
 
-    def del_item(self, item):
-        try:
-            del self.items[item]
-        except KeyError:
-            return False
-        else:
-            return True
+    @items.deleter
+    def items(self):
+        del self.items

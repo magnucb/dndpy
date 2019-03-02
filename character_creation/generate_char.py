@@ -2,7 +2,7 @@
 This is the class where we generate the characters
 """
 from domain import lookup
-from domain.char import Character
+from data import datafile
 
 
 class CharacterChoice(object):
@@ -11,37 +11,55 @@ class CharacterChoice(object):
      Start a character and choose everything to get started playing a level 1
      character.
      """
-    def __init__(self):
+    def __init__(self, stats=None):
         self.finished = False
-        self.character = Character()
+        self.stats = {
+            'race': None,
+            'profession': None,
+            'background': None,
+            'equipment': None,
+            'features': None,
+            'spells': None,
+            'items': None,
+        }
+        # Accept a start input with known values.
+        if stats:
+            for stat, val in stats:
+                if stat in self.stats:
+                    self.stats[stat] = val
 
+    # TODO: These are four identical methods. Make a general selector function.
     def select_race(self):
         races = lookup.RaceLookup()
         print("Choose your race. Your choices are {}".format(
             races.races))
-        self.character.set_race(input("Choose a race: "))
+        choice = input("Choose a race: ")
+        self.stats['race'] = races.races.get(choice)
 
     def select_profession(self):
         professions = lookup.ProfessionLookup()
-        print("Time to to choose a class. Your choices are {}".format(
+        print("Choose your class. Your choices are {}".format(
             professions.professions))
-        self.character.set_profession(input("Choose a class: "))
+        choice = input("Choose a class: ")
+        self.stats['profession'] = professions.professions.get(choice)
 
     def select_spell(self):
         spells = lookup.SpellLookup()
         print("Choose spells. Your choices are {}".format(spells.spells))
         choice = input("Choose a spell: ")
-        self.character.add_spell(spells.spells.get(choice))
+        self.stats['spells'] = spells.spells.get(choice)
 
     def select_feature(self):
         features = lookup.FeatureLookup()
-        print("Chooce features. Your choices are {}".format(features.features))
+        print("Choose features. Your choices are {}".format(features.features))
         choice = input("Choose a feature: ")
-        self.character.add_feature(features.features.get(choice))
+        self.stats['features'] = features.features.get(choice)
 
 
 def main():
-    CharacterChoice()
+    character = CharacterChoice()
+    file = datafile.DataFile('testchar.json')
+    file.write_file(character.stats)
 
 
 if __name__ == '__main__':

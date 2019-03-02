@@ -1,6 +1,7 @@
 """
 This file holds classes for handling DnD-datafiles.
 """
+import json
 
 
 class DataFile(object):
@@ -11,15 +12,13 @@ class DataFile(object):
     """
     def __init__(self, filename):
         self.filename = filename
-        self.content = self.read_file()
 
     def read_file(self):
-        """Return data from self.filename as string"""
-        with open(self.filename, 'r') as infile:
-            content_string = infile.read()
-        return str(content_string)
+        with open(self.filename, 'r') as json_file:
+            data = json.load(json_file)
+        return data
 
-    def write_file(self):
-        """Rewrite self.content to self.filename"""
-        with open(self.filename, 'w') as outfile:
-            outfile.write(self.content)
+    def write_file(self, content):
+        """Write self.content to self.filename"""
+        with open(self.filename, 'w') as json_file:
+            json.dump(content, json_file)
