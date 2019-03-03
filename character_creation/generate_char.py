@@ -24,40 +24,58 @@ class CharacterChoice(object):
         }
         # Accept a start input with known values.
         if stats:
-            for stat, val in stats:
+            for stat in stats:
                 if stat in self.stats:
-                    self.stats[stat] = val
+                    self.stats[stat] = stats[stat]
+        # Check if anything is not set and ask user for input
+        # TODO: Make this loop through self.stats and pick which ones to ask
+        #  for instead of these ugly if tests.
+        if not stats.get('race'):
+            self.select_general(lookup.RaceLookup())
+        if not stats.get('profession'):
+            self.select_general(lookup.ProfessionLookup())
+        if not stats.get('spells'):
+            self.select_general(lookup.SpellLookup())
+        if not stats.get('features'):
+            self.select_general(lookup.FeatureLookup())
+        if not stats.get('background'):
+            self.select_general(lookup.BackgroundLookup())
+        if not stats.get('equipment'):
+            self.select_general(lookup.EquipmentLookup())
+        if not stats.get('items'):
+            self.select_general(lookup.ItemLookup())
 
-    # TODO: These are four identical methods. Make a general selector function.
-    def select_race(self):
-        races = lookup.RaceLookup()
-        print("Choose your race. Your choices are {}".format(
-            races.races))
-        choice = input("Choose a race: ")
-        self.stats['race'] = races.races.get(choice)
-
-    def select_profession(self):
-        professions = lookup.ProfessionLookup()
-        print("Choose your class. Your choices are {}".format(
-            professions.professions))
-        choice = input("Choose a class: ")
-        self.stats['profession'] = professions.professions.get(choice)
-
-    def select_spell(self):
-        spells = lookup.SpellLookup()
-        print("Choose spells. Your choices are {}".format(spells.spells))
-        choice = input("Choose a spell: ")
-        self.stats['spells'] = spells.spells.get(choice)
-
-    def select_feature(self):
-        features = lookup.FeatureLookup()
-        print("Choose features. Your choices are {}".format(features.features))
-        choice = input("Choose a feature: ")
-        self.stats['features'] = features.features.get(choice)
+    def select_general(self, lookup_class):
+        print("Choose your {}. Your choices are {}".format(
+            lookup_class,
+            ', '.join([key for key in lookup_class.parameters.keys()])))
+        choice = input("Choose {}: ".format(lookup_class))
+        if choice not in lookup_class.parameters:
+            print('Unknown {}'.format(lookup_class))
+        else:
+            self.stats[str(lookup_class)] = choice
+        self.stats[str(lookup_class)] = choice
 
 
 def main():
-    character = CharacterChoice()
+    character = CharacterChoice(stats={
+        'race': 'wrongname',
+        'profession': 'bard',
+        'spells': 'placeholder',
+        'features': 'placeholder',
+        'background': 'charlatan',
+        "equipment": 'placeholder',
+        "items": 'placeholder',
+    })
+    # Check if any stats are not set and raise an exception if that's the case
+    # TODO: We now raise an exception if a character does not have something
+    #  of every stat. It may be okay that a character does not have any spells.
+    # TODO: Decide if we want to let the users insert unknown names of
+    #  things, or we want to implement a check. At the moment anything the
+    #  CharacterChoice class gets in the stats parameter is accepted.
+    for stat in character.stats:
+        if character.stats[stat] is None:
+            raise Exception('Missing {} in character.'.format(stat))
     file = datafile.DataFile('testchar.json')
     file.write_file(character.stats)
 
